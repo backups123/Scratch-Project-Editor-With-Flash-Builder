@@ -22,32 +22,35 @@
 
 	<!-- A universally unique application identifier. Must be unique across all AIR applications.
 	Using a reverse DNS-style name as the id is recommended. (Eg. com.example.ExampleApplication.) Required. -->
-	<id>Scratch</id>
+	<id>com.SmallSu.Scratch</id>
 
 	<!-- Used as the filename for the application. Required. -->
-	<filename>Scratch</filename>
+	<filename>魔法图书馆</filename>
 
 	<!-- The name that is displayed in the AIR application installer. 
 	May have multiple values for each language. See samples or xsd schema file. Optional. -->
-	<name/>
+	<name>魔法图书馆</name>
 	
 	<!-- A string value of the format <0-999>.<0-999>.<0-999> that represents application version which can be used to check for application upgrade. 
 	Values can also be 1-part or 2-part. It is not necessary to have a 3-part value.
 	An updated version of application must have a versionNumber value higher than the previous version. Required for namespace >= 2.5 . -->
-	<versionNumber>1.8.4</versionNumber>
+	<versionNumber>1.0.0</versionNumber>
 		         
 	<!-- A string value (such as "v1", "2.5", or "Alpha 1") that represents the version of the application, as it should be shown to users. Optional. -->
-	<versionLabel>v1.8.4</versionLabel>
+	<versionLabel>v1.0.0</versionLabel>
 
 	<!-- Description, displayed in the AIR application installer.
 	May have multiple values for each language. See samples or xsd schema file. Optional. -->
 	<description>
-	Scratch
+	Scratch Aixiangkejikeji
+	Based on Scratch 2.0
 	</description>
 
 	<!-- Copyright information. Optional -->
 	<copyright>
-	Scratch
+	————————————
+	广州艾想电子科技有限公司
+	————————————
 	</copyright>
 
 	<!-- Publisher ID. Used if you're updating an application created prior to 1.5.3 -->
@@ -57,10 +60,10 @@
 	<initialWindow>
 		<!-- The main SWF or HTML file of the application. Required. -->
 		<!-- Note: In Flash Builder, the SWF reference is set automatically. -->
-		<content>Scratch.swf</content>
+		<content>[此值将由 Flash Builder 在输出 app.xml 中覆盖]</content>
 		
 		<!-- The title of the main window. Optional. -->
-		<title>Scratch</title>
+		<title>魔法图书馆</title>
 
 		<!-- The type of system chrome to use (either "standard" or "none"). Optional. Default standard. -->
 		<!-- <systemChrome></systemChrome> -->
@@ -135,7 +138,8 @@
 	<!-- Languages supported by application -->
 	<!-- Only these languages can be specified -->
 	<!-- <supportedLanguages>en de cs es fr it ja ko nl pl pt ru sv tr zh</supportedLanguages> -->
-
+	<supportedLanguages>zh</supportedLanguages>
+	
 	<!-- The subpath of the standard default installation location to use. Optional. -->
 	<!-- <installFolder></installFolder> -->
 
@@ -161,6 +165,13 @@
 		<image512x512></image512x512>
 		<image1024x1024></image1024x1024>
 	</icon> -->
+	
+	<!-- exe安装后的快捷方式图标_wh -->
+	<icon>
+		<image16x16>icons/logo16.png</image16x16>
+		<image32x32>icons/logo32.png</image32x32>
+		<image48x48>icons/logo48.png</image48x48>
+	</icon>
 	
 	<!-- Whether the application handles the update when a user double-clicks an update version
 	of the AIR file (true), or the default AIR application installer handles the update (false).

@@ -120,7 +120,8 @@ public class Server implements IServer {
 	// The url and data parameters match those passed to callServer.
 	protected function onCallServerHttpStatus(url:String, data:*, event:HTTPStatusEvent):void {
 		if (event.status < 200 || event.status > 299) {
-			Scratch.app.logMessage(event.toString());
+			//暂时屏蔽
+			//Scratch.app.logMessage(event.toString());
 		}
 	}
 
@@ -253,13 +254,18 @@ public class Server implements IServer {
 //			whenDone(BackpackPart.localAssets[md5]);
 //			return null;
 //		}
-		var url:String = URLs.assetCdnPrefix + URLs.internalAPI + 'asset/' + md5 + '/get/';
-		return serverGet(url, whenDone);
+//
+		// var url:String = URLs.assetCdnPrefix + URLs.internalAPI + 'asset/' + md5 + '/get/';
+		// return serverGet(url, whenDone);
+
+		return serverGet('media/' + md5, whenDone);
 	}
 
 	public function getMediaLibrary(libraryType:String, whenDone:Function):URLLoader {
-		var url:String = getCdnStaticSiteURL() + 'medialibraries/' + libraryType + 'Library.json';
-		return serverGet(url, whenDone);
+		// var url:String = getCdnStaticSiteURL() + 'medialibraries/' + libraryType + 'Library.json';
+		// return serverGet(url, whenDone);
+
+		return getAsset('mediaLibrary.json', whenDone);
 	}
 
 	protected function downloadThumbnail(url:String, w:int, h:int, whenDone:Function):URLLoader {
@@ -304,10 +310,31 @@ public class Server implements IServer {
 		return result;
 	}
 
-	public function getThumbnail(idAndExt:String, w:int, h:int, whenDone:Function):URLLoader {
-		var url:String = getCdnStaticSiteURL() + 'medialibrarythumbnails/' + idAndExt;
-		return downloadThumbnail(url, w, h, whenDone);
+
+	// public function getThumbnail(idAndExt:String, w:int, h:int, whenDone:Function):URLLoader {
+	// 	var url:String = getCdnStaticSiteURL() + 'medialibrarythumbnails/' + idAndExt;
+	// 	return downloadThumbnail(url, w, h, whenDone);
+	// }
+	public function getThumbnail(md5:String, w:int, h:int, whenDone:Function):URLLoader {
+		function gotAsset(data:ByteArray):void {
+			if (data) {
+				var loader:Loader = new Loader();
+				loader.contentLoaderInfo.addEventListener(Event.COMPLETE, imageLoaded);
+				loader.contentLoaderInfo.addEventListener(IOErrorEvent.IO_ERROR, imageError);
+				try { loader.loadBytes(data) } catch (e:*) {}
+			}
+		}
+		function imageError(e:IOErrorEvent):void {
+			Scratch.app.log(LogLevel.WARNING,'Server failed to load thumbnail: ' + md5);
+		}
+		function imageLoaded(e:Event):void {
+			whenDone(makeThumbnail(e.target.content.bitmapData));
+		}
+		var ext:String = md5.slice(-3);
+		if (['gif', 'png', 'jpg'].indexOf(ext) > -1) getAsset(md5, gotAsset);
+		return null;
 	}
+
 
 	// -----------------------------
 	// Translation Support

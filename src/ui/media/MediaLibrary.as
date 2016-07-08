@@ -119,6 +119,14 @@ public class MediaLibrary extends Sprite {
 		viewLibrary();
 	}
 
+	public function initopen():void {//_wh
+		app.closeTips();
+		app.mediaLibrary = this;
+		setWidthHeight(app.stage.stageWidth, app.stage.stageHeight);
+		app.addChild(this);
+		viewLibrary();
+	}
+
 	public function importFromDisk():void {
 		if (parent) close();
 		if (assetType == 'sound') importSoundsFromDisk();
@@ -451,6 +459,13 @@ spriteFeaturesFilter.visible = false; // disable features filter for now
 				}
 			}
 		}
+	}
+
+	public function initSelected():void {
+		// Close dialog and call whenDone() with an array of selected media items.
+		var io:ProjectIO = new ProjectIO(app);
+		close();
+		io.fetchSprite("21d7c8705a0fdeea32affb616ee6c984.json", whenDone);
 	}
 
 	// -----------------------------

@@ -394,6 +394,41 @@ public class LibraryPart extends UIPart {
 		else lib.open();
 	}
 
+	public function initSprite(fromComputer:Boolean):void {//改成public供外部调用_wh
+		function addSprite(costumeOrSprite:*):void {
+			var spr:ScratchSprite;
+			var c:ScratchCostume = costumeOrSprite as ScratchCostume;
+			if (c) {
+				spr = new ScratchSprite(c.costumeName);
+				spr.setInitialCostume(c);
+				app.addNewSprite(spr);
+				return;
+			}
+			spr = costumeOrSprite as ScratchSprite;
+			if (spr) {
+				app.addNewSprite(spr);
+				return;
+			}
+			var list:Array = costumeOrSprite as Array;
+			if (list) {
+				var sprName:String = list[0].costumeName;
+				if (sprName.length > 3) sprName = sprName.slice(0, sprName.length - 2);
+				spr = new ScratchSprite(sprName);
+				for each (c in list) spr.costumes.push(c);
+				if (spr.costumes.length > 1) spr.costumes.shift(); // remove default costume
+				spr.showCostumeNamed(list[0].costumeName);
+				app.addNewSprite(spr);
+			}
+		}
+		var lib:MediaLibrary = app.getMediaLibrary('sprite', addSprite);
+		if (fromComputer) lib.importFromDisk();
+		else
+		{
+			lib.initopen();
+			lib.initSelected();
+		}
+	}
+
 	// -----------------------------
 	// New Backdrop Operations
 	//------------------------------

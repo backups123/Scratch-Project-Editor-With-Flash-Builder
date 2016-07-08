@@ -1,0 +1,2083 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-04-25 22:29+0200\n"
+"PO-Revision-Date: 2016-05-26 12:18+0000\n"
+"Last-Translator: Anca-Diana <diacadan@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2);;\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1464265122.000000\n"
+
+msgid "%b and %b"
+msgstr "%b și %b"
+
+msgid "%b or %b"
+msgstr "%b sau %b"
+
+msgid "%m.attribute of %m.spriteOrStage"
+msgstr "%m.attribute din %m.spriteOrStage"
+
+msgid "%m.mathOp of %n"
+msgstr "%m.mathOp din %n"
+
+msgid "%m.sensor sensor value"
+msgstr "valoarea senzorului %m.sensor"
+
+msgid "%n mod %n"
+msgstr "%n rest %n"
+
+msgid "add %s to %m.list"
+msgstr "adaugă %s la %m.list"
+
+msgid "answer"
+msgstr "răspuns"
+
+msgid "ask %s and wait"
+msgstr "întreabă %s și așteaptă"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+msgid "backdrop #"
+msgstr "fundal #"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+msgid "backdrop name"
+msgstr "denumire fundal"
+
+msgid "broadcast %m.broadcast"
+msgstr "expediere la toți %m.broadcast"
+
+msgid "broadcast %m.broadcast and wait"
+msgstr "expediere la toți %m.broadcast și așteaptă"
+
+msgid "change %m.effect effect by %n"
+msgstr "modifică efectul %m.effect cu %n"
+
+msgid "change %m.var by %n"
+msgstr "modifică %m.var cu %n"
+
+msgid "change pen color by %n"
+msgstr "modifică culoarea stiloului cu %n"
+
+msgid "change pen shade by %n"
+msgstr "modifică tonul stiloului cu %n"
+
+msgid "change pen size by %n"
+msgstr "modifică mărimea stiloului cu %n"
+
+msgid "change size by %n"
+msgstr "modifică mărimea cu %n"
+
+msgid "change tempo by %n"
+msgstr "modifică tempoul cu %n"
+
+msgid "change volume by %n"
+msgstr "modifică volumul cu %n"
+
+msgid "change x by %n"
+msgstr "modifică x cu %n"
+
+msgid "change y by %n"
+msgstr "modifică y cu %n"
+
+msgid "clear"
+msgstr "șterge"
+
+msgid "clear graphic effects"
+msgstr "șterge efectele grafice"
+
+msgid "color %c is touching %c?"
+msgstr "culoarea %c atinge %c?"
+
+msgid "Control"
+msgstr "Control"
+
+msgid "costume #"
+msgstr "costumul #"
+
+msgid "create clone of %m.spriteOnly"
+msgstr "crează clonă pentru %m.spriteOnly"
+
+msgid "current %m.timeAndDate"
+msgstr "%m.timeAndDate curentă"
+
+msgid "Data"
+msgstr "Date"
+
+msgid "days since 2000"
+msgstr "zile din 2000"
+
+msgid "define"
+msgstr "definește"
+
+msgid "delete %d.listDeleteItem of %m.list"
+msgstr "șterge %d.listDeleteItem din %m.list"
+
+msgid "delete this clone"
+msgstr "șterge aceasta clonă"
+
+msgid "direction"
+msgstr "direcție"
+
+msgid "distance"
+msgstr "distanța"
+
+msgid "distance to %m.spriteOrMouse"
+msgstr "distanța până la %m.spriteOrMouse"
+
+msgid "else"
+msgstr "altfel"
+
+msgid "Events"
+msgstr "Evenimente"
+
+msgid "forever"
+msgstr "la infinit"
+
+msgid "glide %n secs to x:%n y:%n"
+msgstr "gliseaza in %n secunde la x:%n y:%n"
+
+msgid "go back %n layers"
+msgstr "mergi inapoi %n straturi"
+
+msgid "go to front"
+msgstr "du-te in prim plan"
+
+msgid "go to x:%n y:%n"
+msgstr "du-te la x:%n y:%n"
+
+msgid "hide"
+msgstr "ascunde"
+
+msgid "hide list %m.list"
+msgstr "ascunde lista %m.list"
+
+msgid "hide variable %m.var"
+msgstr "ascunde variabila %m.var"
+
+msgid "if %b then"
+msgstr "dacă %b atunci"
+
+msgid "if on edge, bounce"
+msgstr "daca se afla pe margine, ricoseaza"
+
+msgid "insert %s at %d.listItem of %m.list"
+msgstr "insereaza %s la %d.listItem din %m.list"
+
+msgid "item %d.listItem of %m.list"
+msgstr "elementul %d.listItem din %m.list"
+
+msgid "join %s %s"
+msgstr "imbina %s %s"
+
+msgid "key %m.key pressed?"
+msgstr "tasta %m.key este apasata?"
+
+msgid "length of %m.list"
+msgstr "lungimea lui %m.list"
+
+msgid "length of %s"
+msgstr "lungimea lui %s"
+
+msgid "letter %n of %s"
+msgstr "litera %n din %s"
+
+msgid "Looks"
+msgstr "Aspect"
+
+msgid "loudness"
+msgstr "volum sonor"
+
+msgid "More Blocks"
+msgstr "Mai multe blocuri"
+
+msgid "Motion"
+msgstr "Miscare"
+
+msgid "mouse down?"
+msgstr "mouse apasat?"
+
+msgid "mouse x"
+msgstr "mouse x"
+
+msgid "mouse y"
+msgstr "mouse y"
+
+msgid "move %n steps"
+msgstr "muta %n pasi"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+msgid "next backdrop"
+msgstr "urmatorul fundal"
+
+msgid "next costume"
+msgstr "urmatorul costum"
+
+msgid "not %b"
+msgstr "nu %b"
+
+msgid "Operators"
+msgstr "Operatori"
+
+msgid "Pen"
+msgstr "Stilou"
+
+msgid "pen down"
+msgstr "stiloul jos"
+
+msgid "pen up"
+msgstr "stiloul sus"
+
+msgid "pick random %n to %n"
+msgstr "alege un numar aleatoriu intre %n si %n"
+
+msgid "play drum %d.drum for %n beats"
+msgstr "canta la toba %d.drum pentru %n timpi"
+
+# 83%
+msgid "play note %d.note for %n beats"
+msgstr "canta nota %d.note pentru %n batai"
+
+msgid "play sound %m.sound"
+msgstr "canta sunetul %m.sound"
+
+msgid "play sound %m.sound until done"
+msgstr "canta sunetul %m.sound pana cand e gata"
+
+msgid "point in direction %d.direction"
+msgstr "orienteaza in directia %d.direction"
+
+msgid "point towards %m.spriteOrMouse"
+msgstr "orienteaza inspre %m.spriteOrMouse"
+
+msgid "repeat %n"
+msgstr "repeta %n"
+
+msgid "repeat until %b"
+msgstr "repeta pana cand %b"
+
+msgid "replace item %d.listItem of %m.list with %s"
+msgstr "inlocuieste elementul %d.listItem din %m.list cu %s"
+
+msgid "reset timer"
+msgstr "reseteaza cronometrul"
+
+msgid "rest for %n beats"
+msgstr "pauza %n timpi"
+
+msgid "round %n"
+msgstr "rotunjeste %n"
+
+msgid "say %s"
+msgstr "spune %s"
+
+msgid "say %s for %n secs"
+msgstr "spune %s pentru %n sec"
+
+msgid "Sensing"
+msgstr "Detectie"
+
+msgid "sensor %m.booleanSensor?"
+msgstr "senzorul %m.booleanSensor?"
+
+msgid "set %m.effect effect to %n"
+msgstr "seteaza efectul %m.effect la %n"
+
+msgid "set %m.var to %s"
+msgstr "seteaza %m.var la %s"
+
+msgid "set instrument to %d.instrument"
+msgstr "seteaza instrumentul la %d.instrument"
+
+# 89%
+# 86%
+# 97%
+msgid "set %m.motor2 direction to %m.motorDirection"
+msgstr "setează direcția %m.motor2 la %m.motorDirection"
+
+# 77%
+# 75%
+msgid "set %m.motor power to %n"
+msgstr "setează puterea %m.motor la %n"
+
+msgid "set pen color to %c"
+msgstr "seteaza culoarea stiloului la %c"
+
+msgid "set pen color to %n"
+msgstr "seteaza culoarea stiloului la %n"
+
+msgid "set pen shade to %n"
+msgstr "seteaza tonul stiloului la %n"
+
+msgid "set pen size to %n"
+msgstr "seteaza marimea stiloului la %n"
+
+msgid "set rotation style %m.rotationStyle"
+msgstr "setează stilul de rotatie la %m.rotationStyle"
+
+msgid "set size to %n%"
+msgstr "seteaza marimea la %n%"
+
+msgid "set tempo to %n bpm"
+msgstr "seteaza ritmul la %n bpm"
+
+msgid "set video transparency to %n%"
+msgstr "seteaza transparenta video la %n%"
+
+msgid "set volume to %n%"
+msgstr "seteaza volumul la %n%"
+
+msgid "set x to %n"
+msgstr "seteaza x la %n"
+
+msgid "set y to %n"
+msgstr "seteaza y la %n"
+
+msgid "show"
+msgstr "afiseaza"
+
+msgid "show list %m.list"
+msgstr "afiseaza lista %m.list"
+
+msgid "show variable %m.var"
+msgstr "afiseaza variabila %m.var"
+
+msgid "size"
+msgstr "marime"
+
+msgid "Sound"
+msgstr "Sunet"
+
+msgid "stamp"
+msgstr "stampileaza"
+
+msgid "stop %m.stop"
+msgstr "opreste %m.stop"
+
+msgid "stop all sounds"
+msgstr "opreste toate sunetele"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+msgid "switch backdrop to %m.backdrop"
+msgstr "schimba fundalul la %m.fundal"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+msgid "switch backdrop to %m.backdrop and wait"
+msgstr "schimba fundalul la %m.fundal si asteapta"
+
+msgid "switch costume to %m.costume"
+msgstr "schimba costumul la %m.costum"
+
+msgid "tempo"
+msgstr "ritmul"
+
+msgid "think %s"
+msgstr "gandeste %s"
+
+msgid "think %s for %n secs"
+msgstr "gandeste %s pentru %n sec"
+
+msgid "tilt"
+msgstr "inclinare"
+
+msgid "timer"
+msgstr "cronometru"
+
+msgid "touching %m.touching?"
+msgstr "atingere %m.atingere?"
+
+msgid "touching color %c?"
+msgstr "atinge culoarea %c?"
+
+msgid "turn @turnLeft %n degrees"
+msgstr "roteste @turnLeft %n grade"
+
+msgid "turn @turnRight %n degrees"
+msgstr "roteste @turnRight %n grade"
+
+# 82%
+msgid "turn %m.motor off"
+msgstr "oprește %m.motorul"
+
+# 81%
+msgid "turn %m.motor on"
+msgstr "pornește %m.motor"
+
+# 80%
+# 89%
+msgid "turn %m.motor on for %n secs"
+msgstr "pornește %m.motor pentru %n secunde"
+
+msgid "turn video %m.videoState"
+msgstr "comuta video la %m.videoState"
+
+msgid "username"
+msgstr "nume utilizator"
+
+msgid "video %m.videoMotionType on %m.stageOrThis"
+msgstr "video %m.videoMotionType pe %m.stageOrThis"
+
+msgid "volume"
+msgstr "volum"
+
+msgid "wait %n secs"
+msgstr "asteapta %n sec"
+
+msgid "wait until %b"
+msgstr "asteapta pana cand %b"
+
+# 75%
+msgid "when %m.booleanSensor"
+msgstr "cand %m.booleanSensor"
+
+msgid "when %m.key key pressed"
+msgstr "cand tasta %m.key este apasata"
+
+msgid "when %m.sensor %m.lessMore %n"
+msgstr "%m.lessMore %n când %m.sensor"
+
+msgid "when %m.triggerSensor > %n"
+msgstr "cand %m.triggerSensor > %n"
+
+msgid "when @greenFlag clicked"
+msgstr "cand se da clic pe @greenFlag"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+msgid "when backdrop switches to %m.backdrop"
+msgstr "cand se schimba fundalul la %m.fundal"
+
+msgid "when distance %m.lessMore %n"
+msgstr "când distanța %m.lessMore %n"
+
+msgid "when I receive %m.broadcast"
+msgstr "cand primesc %m.broadcast"
+
+msgid "when I start as a clone"
+msgstr "cand incep ca o clona"
+
+msgid "when Stage clicked"
+msgstr "când se dă clic pe scenă"
+
+msgid "when this sprite clicked"
+msgstr "cand se da clic pe acest sprite"
+
+msgid "when tilt %m.eNe %n"
+msgstr "când inclinația %m.eNe %n"
+
+msgid "x position"
+msgstr "pozitia x"
+
+msgid "y position"
+msgstr "pozitia y"
+
+#: commands-online.txt:7 commands-offline.txt:7
+msgid "%m.list contains %s?"
+msgstr "%m.list conține %s?"
+
+msgid "go to %m.location"
+msgstr "du-te la %m.location"
+
+msgid "10 ^"
+msgstr "10 ^"
+
+msgid ""
+"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+"numbers are supported<br>Chat rooms are not allowed, and will be "
+"removed<br>For more info, <a href=\"/help/faq/#clouddata\" target=\"_blank"
+"\">see the cloud data FAQ!</a>"
+msgstr ""
+"<b>Informatia despre variabilele Cloud</b><br>&nbsp;<br>In acest moment sunt "
+"suportate numai numere<br>Camerele de chat nu sunt permise si vor fi "
+"eliminate<br>Pentru mai multe informatii, <a href= target=>vezi sectiunea "
+"cloud FAQ!</a>"
+
+msgid "A connected"
+msgstr "A conectat"
+
+msgid "a copy of the project file on your computer."
+msgstr "o copie a proiectului pe calculatorul tău."
+
+msgid "A newer version of Scratch is available"
+msgstr "Este disponibilă o nouă versiune Scratch"
+
+msgid "About"
+msgstr "Despre"
+
+msgid "About LEGO WeDo extension..."
+msgstr ""
+
+msgid "About PicoBoard extension..."
+msgstr ""
+
+msgid "abs"
+msgstr "modul"
+
+msgid "Account settings"
+msgstr "Setarile contului"
+
+msgid "acos"
+msgstr "acos"
+
+msgid "Add"
+msgstr "Adaugă"
+
+msgid "Add an Extension"
+msgstr "Adaugă o Extensie"
+
+msgid "Add boolean input:"
+msgstr "Adaugă intrare de tip boolean:"
+
+msgid "add comment"
+msgstr "adaugă un comentariu"
+
+msgid "add comment here..."
+msgstr ""
+
+msgid "Add label text:"
+msgstr "Adaugă text pentru etichetă:"
+
+msgid "Add number input:"
+msgstr "Adaugă intrare de tip numeric:"
+
+msgid "Add string input:"
+msgstr "Adaugă intrare de tip șir de caractere:"
+
+msgid "all"
+msgstr "tot"
+
+msgid "All"
+msgstr "Toate"
+
+msgid "all around"
+msgstr "peste tot"
+
+msgid "all motors"
+msgstr ""
+
+msgid "Animal"
+msgstr "Animal"
+
+msgid "Animals"
+msgstr "Animale"
+
+msgid "asin"
+msgstr "asin"
+
+msgid "assets loaded"
+msgstr "materiale încărcate"
+
+msgid "atan"
+msgstr "atan"
+
+msgid "B connected"
+msgstr "B conectat"
+
+msgid "Back a layer"
+msgstr "Un strat în spate"
+
+msgid "backdrop"
+msgstr "decor"
+
+msgid "Backdrop"
+msgstr "Decor"
+
+msgid "Backdrop Library"
+msgstr "Bibliotecă de Decoruri"
+
+msgid "backdrop1"
+msgstr "decor1"
+
+msgid "backdrops"
+msgstr "decoruri"
+
+msgid "Backdrops"
+msgstr "Decoruri"
+
+msgid "Backpack"
+msgstr "Rucsac"
+
+msgid "Bass"
+msgstr "Bas"
+
+msgid "Bass Drum"
+msgstr "Toba Bas"
+
+msgid "Bassoon"
+msgstr "Fagot"
+
+msgid ""
+"Because you have a new Scratch account, any changes to cloud data won't be "
+"saved yet. Keep participating on the site you'll be able to use cloud data "
+"soon!"
+msgstr ""
+"Deoarece ai un cont Scratch nou, niciuna dintre modificările făcute la "
+"informațiile din cloud nu va fi salvată încă. Continuând să fii activ pe "
+"site vei putea în curând să folosești informațiile din cloud!"
+
+msgid "Bitmap"
+msgstr "Bitmap"
+
+msgid "Bitmap Mode"
+msgstr "Mod Bitmap"
+
+msgid "Block help"
+msgstr "Ajutor despre blocuri"
+
+msgid "Bongo"
+msgstr "Bongo"
+
+msgid "brightness"
+msgstr "strălucire"
+
+msgid "Bring to front"
+msgstr "Adu în prim plan"
+
+msgid "Broadcast"
+msgstr "Difuzare"
+
+msgid "Brush"
+msgstr "Pensulă"
+
+msgid "button pressed"
+msgstr "buton apăsat"
+
+msgid "by"
+msgstr "de"
+
+msgid "bytes loaded"
+msgstr "octeți încărcați"
+
+msgid "C connected"
+msgstr "C conectat"
+
+msgid "Cabasa"
+msgstr "Cabasa"
+
+msgid "Camera"
+msgstr "Camera"
+
+msgid "can drag in player:"
+msgstr "poți trage un jucator:"
+
+msgid "Cancel"
+msgstr "Renunță"
+
+msgid "Cannot Add"
+msgstr ""
+
+msgid "Cannot Delete"
+msgstr "Nu se poate șterge"
+
+msgid "Can’t find network connection or reach server."
+msgstr "Nu se găsește conexiunea la rețea sau la server."
+
+msgid "Castle"
+msgstr "Castel"
+
+msgid "Category"
+msgstr "Categoria"
+
+msgid "ceiling"
+msgstr "rotunjire prin adaos"
+
+msgid "Cello"
+msgstr "Violoncel"
+
+msgid "Check for updates"
+msgstr "Verifică existența actualizărilor"
+
+msgid "Choir"
+msgstr "Cor"
+
+msgid "Choose backdrop from library"
+msgstr "Alege decor din bibliotecă"
+
+msgid "Choose costume from library"
+msgstr "Alege costum din bibliotecă"
+
+msgid "Choose sound from library"
+msgstr "Alege sunet din bibliotecă"
+
+msgid "Choose sprite from library"
+msgstr "Alege personaj din bibliotecă"
+
+msgid "Circle"
+msgstr "Cerc"
+
+msgid "City"
+msgstr "Oraș"
+
+msgid "Clarinet"
+msgstr "Clarinet"
+
+msgid "Claves"
+msgstr "Clavecin"
+
+msgid "clean up"
+msgstr "curăță"
+
+msgid "Clear"
+msgstr "Șterge"
+
+msgid "clear senders/receivers"
+msgstr "șterge expeditorii/destinatarii"
+
+msgid "Click \"Save now\" to try again or \"Download\" to save"
+msgstr ""
+"Clic pe \"Salvează acum\" pentru a încerca din nou sau \"Descarcă\" pentru a "
+"salva"
+
+msgid "Close"
+msgstr "Închide"
+
+msgid "Closed Hi-Hat"
+msgstr "Hi-Hat inchis"
+
+msgid "Cloud data"
+msgstr "Informații din cloud"
+
+msgid "Cloud variable (stored on server)"
+msgstr ""
+
+msgid "color"
+msgstr "culoare"
+
+msgid "Color a shape"
+msgstr "Colorează o formă"
+
+msgid "Conga"
+msgstr "Conga"
+
+msgid "Connecting to Cloud data server..."
+msgstr "Se conectează la serverul din Cloud..."
+
+msgid "Convert to bitmap"
+msgstr "Convertește la bitmap"
+
+msgid "Convert to vector"
+msgstr "Convertește în format vectorial"
+
+msgid "Converting mp3..."
+msgstr "Se converteste mp3..."
+
+msgid "copy"
+msgstr "copiază"
+
+msgid "Copying..."
+msgstr "Se copiază..."
+
+msgid "cos"
+msgstr "cos"
+
+msgid "Costume"
+msgstr "Costum"
+
+msgid "Costume Library"
+msgstr "Bibliotecă de costume"
+
+msgid "costume name"
+msgstr "denumirea costumului"
+
+msgid "costume1"
+msgstr "costum1"
+
+msgid "costume2"
+msgstr "costum2"
+
+msgid "Costumes"
+msgstr "Costume"
+
+msgid "Costumes > 1"
+msgstr "Costume > 1"
+
+msgid "Could not retrieve new application from server."
+msgstr "Aplicația nouă nu poate fi adusă de pe server"
+
+msgid "Cowbell"
+msgstr "Cowbell"
+
+msgid "Crash Cymbal"
+msgstr "Crash Cymbal"
+
+msgid "Creating..."
+msgstr "Se creează..."
+
+msgid "Currently, only numbers can be stored in Cloud variables."
+msgstr "În acest moment, numai numerele pot fi memorate în variabile Cloud."
+
+msgid "cut"
+msgstr "decupează"
+
+msgid "D connected"
+msgstr "D conectat"
+
+msgid "date"
+msgstr "data"
+
+msgid "day of week"
+msgstr "ziua săptămânii"
+
+msgid "delete"
+msgstr "șterge"
+
+# 83%
+msgid "Delete"
+msgstr "Șterge"
+
+msgid "delete variable"
+msgstr "șterge variabila"
+
+msgid "direction:"
+msgstr "direcția:"
+
+msgid "don't rotate"
+msgstr "nu roti"
+
+msgid "Don't save"
+msgstr "Nu salva"
+
+msgid "down"
+msgstr "jos"
+
+msgid "down arrow"
+msgstr "săgeată jos"
+
+msgid "Download"
+msgstr "Descarcă"
+
+msgid "Download to your computer"
+msgstr "Descarcă pe calculatorul tău"
+
+msgid "Downloading new version"
+msgstr ""
+
+msgid "duplicate"
+msgstr "duplică"
+
+msgid "Duplicate"
+msgstr "Duplică"
+
+msgid "e ^"
+msgstr "e ^"
+
+msgid "edge"
+msgstr "marginea"
+
+msgid "Edit"
+msgstr "Editează"
+
+msgid "edit"
+msgstr "editează"
+
+msgid "Edit Block"
+msgstr "Editează blocul"
+
+msgid "Effects"
+msgstr "Efecte"
+
+msgid "Electric Guitar"
+msgstr "Chitară electrică"
+
+msgid "Electric Piano"
+msgstr "Pian electric"
+
+msgid "Electronic"
+msgstr "Electronic"
+
+msgid "Ellipse"
+msgstr "Elipsă"
+
+msgid "empty"
+msgstr ""
+
+msgid "Erase"
+msgstr "Șterge"
+
+msgid "Erase all"
+msgstr ""
+
+msgid "Eraser width"
+msgstr "Grosimea radierei"
+
+msgid "Error!"
+msgstr "Eroare!"
+
+msgid "everything"
+msgstr ""
+
+msgid "export"
+msgstr "exportă"
+
+msgid "Extension Library"
+msgstr ""
+
+msgid "Extension Problem"
+msgstr ""
+
+msgid "fade in"
+msgstr "estompare in interior"
+
+msgid "fade out"
+msgstr "estompare în exterior"
+
+msgid "false"
+msgstr ""
+
+msgid "Fantasy"
+msgstr "Fantezie"
+
+msgid "Features"
+msgstr "Caracteristici"
+
+msgid "File"
+msgstr "Fișier"
+
+msgid "Fill with color"
+msgstr "Umple cu culoare"
+
+msgid "fisheye"
+msgstr "ochi de pește"
+
+msgid "Flip left-right"
+msgstr "Oglindește orizontal"
+
+msgid "Flip up-down"
+msgstr "Oglindește vertical"
+
+msgid "floor"
+msgstr "parte întreagă"
+
+msgid "Flute"
+msgstr "Flaut"
+
+msgid "Flying"
+msgstr "Zbor"
+
+msgid "Font:"
+msgstr "Font:"
+
+msgid "For all sprites"
+msgstr "Pentru toate personajele"
+
+msgid "For this sprite only"
+msgstr "Doar pentru acest personaj"
+
+msgid "Forward a layer"
+msgstr "Avansează un strat"
+
+msgid "ghost"
+msgstr "fantomă"
+
+msgid "Go to My Stuff"
+msgstr "Mergi la lucrurile mele"
+
+msgid "Group"
+msgstr "Grupează"
+
+msgid "Grow"
+msgstr "Mărește"
+
+msgid "Guiro"
+msgstr "Guiro"
+
+msgid "Guitar"
+msgstr "Chitară"
+
+msgid "Hand Clap"
+msgstr "Bătaie din palme"
+
+msgid "Hardware"
+msgstr "Hardware"
+
+msgid "help"
+msgstr "ajutor"
+
+msgid "Hello!"
+msgstr ""
+
+msgid "Hmm..."
+msgstr ""
+
+#, fuzzy
+msgid "hello"
+msgstr "Violoncel"
+
+msgid "High C"
+msgstr "Do de sus"
+
+msgid "Holiday"
+msgstr "Vacanță"
+
+msgid "hour"
+msgstr "ora"
+
+msgid "Human"
+msgstr "Uman"
+
+# 83%
+msgid "import"
+msgstr "importă"
+
+msgid "Import"
+msgstr "Importă"
+
+msgid "Importing sound..."
+msgstr "Se importă sunet..."
+
+msgid "Indoors"
+msgstr "Interioare"
+
+msgid "Installing..."
+msgstr "Se instalează..."
+
+msgid "Instruments"
+msgstr "Instrumente"
+
+msgid "large readout"
+msgstr "afișaj mare"
+
+msgid "last"
+msgstr "ultim"
+
+msgid "left"
+msgstr "stânga"
+
+msgid "left arrow"
+msgstr "săgeată stânga"
+
+msgid "left-right"
+msgstr "stânga-dreapta"
+
+msgid "length"
+msgstr "lungime"
+
+msgid "Letters"
+msgstr "Litere"
+
+msgid "Library"
+msgstr "Bibliotecă"
+
+msgid "light"
+msgstr "lumină"
+
+# 83%
+#, fuzzy
+msgid "lights"
+msgstr "lumina"
+
+msgid "Line"
+msgstr "Linie"
+
+msgid "Line width"
+msgstr "Grosimea liniei"
+
+# 75%
+msgid "list"
+msgstr "listă"
+
+msgid "List name"
+msgstr "Denumirea listei"
+
+msgid "ln"
+msgstr "ln"
+
+msgid "Loading project..."
+msgstr "Se încarcă proiectul..."
+
+msgid "log"
+msgstr "log"
+
+msgid "louder"
+msgstr "mai tare"
+
+msgid "Low C"
+msgstr "Do de jos"
+
+msgid "Make a Block"
+msgstr "Creează un Bloc"
+
+msgid "Make a List"
+msgstr "Creează o Listă"
+
+msgid "Make a Variable"
+msgstr "Creează o Variabilă"
+
+msgid "Marimba"
+msgstr "Marimba"
+
+msgid "Max"
+msgstr "Max"
+
+msgid "meow"
+msgstr "miau"
+
+msgid "Message Name"
+msgstr "Denumirea mesajului"
+
+msgid "message1"
+msgstr "mesaj1"
+
+msgid "Microphone volume:"
+msgstr "Volumul microfonului:"
+
+msgid "Middle C"
+msgstr "Do central"
+
+msgid "Min"
+msgstr "Minim"
+
+msgid "minute"
+msgstr "minut"
+
+msgid "month"
+msgstr "luna"
+
+msgid "mosaic"
+msgstr "mozaic"
+
+msgid "motion"
+msgstr "mișcare"
+
+msgid "motor"
+msgstr ""
+
+msgid "motor A"
+msgstr ""
+
+msgid "motor B"
+msgstr ""
+
+msgid "mouse-pointer"
+msgstr "cursorul mouse-ului"
+
+msgid "Multiple"
+msgstr "Multiplu"
+
+msgid "Music and Dance"
+msgstr "Muzică și Dans"
+
+msgid "Music Box"
+msgstr "Cutie muzicală"
+
+msgid "Music Loops"
+msgstr "Repetiții muzicale"
+
+msgid "My Stuff"
+msgstr "Lucrurile mele"
+
+msgid "myself"
+msgstr "eu"
+
+msgid "Nature"
+msgstr "Natură"
+
+msgid "New"
+msgstr "Nou"
+
+msgid "New backdrop from camera"
+msgstr "Decor nou de la cameră"
+
+msgid "New backdrop:"
+msgstr "Decor nou:"
+
+msgid "New Block"
+msgstr "Bloc Nou"
+
+msgid "New costume from camera"
+msgstr "Costum nou de la cameră"
+
+msgid "New costume:"
+msgstr "Costum nou:"
+
+msgid "New List"
+msgstr "Listă Nouă"
+
+msgid "New Message"
+msgstr "Mesaj Nou"
+
+msgid "new message..."
+msgstr "mesaj nou..."
+
+msgid "New name"
+msgstr "Denumire nouă"
+
+msgid "New sound:"
+msgstr "Sunet nou:"
+
+msgid "New sprite from camera"
+msgstr "Personaj nou de la cameră"
+
+msgid "New sprite:"
+msgstr "Personaj nou:"
+
+msgid "New Variable"
+msgstr "Variabilă Nouă"
+
+msgid "No motion blocks"
+msgstr "Niciun bloc de mișcare"
+
+msgid "normal readout"
+msgstr "afișaj normal"
+
+msgid "not ="
+msgstr ""
+
+msgid "Not saved; network or server problem."
+msgstr "Nu s-a salvat; probleme la rețea sau server."
+
+msgid "Not saved; project did not load."
+msgstr "Nu s-a salvat; proiectul nu s-a încărcat."
+
+msgid "of"
+msgstr "al"
+
+msgid "off"
+msgstr "oprit"
+
+msgid "Offline Editor"
+msgstr "Editor fără conexiune Internet"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "on"
+msgstr "pornit"
+
+msgid "on-flipped"
+msgstr "oglindit"
+
+msgid "Open"
+msgstr "Deschide"
+
+msgid "Open Cuica"
+msgstr "Deschide Cuica"
+
+msgid "Open Hi-Hat"
+msgstr "Deschide Hi-Hat"
+
+msgid "Options"
+msgstr "Opțiuni"
+
+msgid "Organ"
+msgstr "Orgă"
+
+msgid "Other"
+msgstr "Altele"
+
+msgid "other scripts in sprite"
+msgstr "celelalte scripturi ale personajului"
+
+msgid "other scripts in stage"
+msgstr "alte script-uri pentru scenă"
+
+msgid "Outdoors"
+msgstr "Exterioare"
+
+msgid "Paint new backdrop"
+msgstr "Desenează un decor nou"
+
+msgid "Paint new costume"
+msgstr "Desenează un costum nou"
+
+msgid "Paint new sprite"
+msgstr "Desenează un personaj nou"
+
+msgid "Password"
+msgstr "Parolă"
+
+msgid "Password is required"
+msgstr "Necesită parolă"
+
+msgid "paste"
+msgstr "lipește"
+
+msgid "Pencil"
+msgstr "Creion"
+
+msgid "People"
+msgstr "Oameni"
+
+msgid "Percussion"
+msgstr "Percuție"
+
+msgid "photo1"
+msgstr "poza1"
+
+msgid "Piano"
+msgstr "Pian"
+
+msgid "Pick up color"
+msgstr "Alege culoarea"
+
+msgid "pixelate"
+msgstr "pixelare"
+
+msgid "Pizzicato"
+msgstr "Pizzicato"
+
+msgid "pop"
+msgstr "pop"
+
+msgid "previous backdrop"
+msgstr "decorul anterior"
+
+msgid "Profile"
+msgstr "Profil"
+
+msgid "Project did not load."
+msgstr "Proiectul nu s-a încărcat."
+
+msgid "Project not saved!"
+msgstr "Proiectul nu a fost salvat!"
+
+msgid "Project name"
+msgstr "Denumirea proiectului"
+
+msgid "Project name is required"
+msgstr "Denumirea proiectului este obligatorie"
+
+msgid "random"
+msgstr "aleator"
+
+msgid "Record"
+msgstr "Înregistrare"
+
+msgid "Record new sound"
+msgstr "Înregistrează sunet nou"
+
+msgid "record..."
+msgstr "se înregistrează..."
+
+msgid "recording1"
+msgstr "înregistrare1"
+
+msgid "Rectangle"
+msgstr "Dreptunghi"
+
+# 75%
+msgid "Redo"
+msgstr "Refă acțiunea anulată"
+
+msgid "redo"
+msgstr "refă acțiunea anulată"
+
+msgid "Remix"
+msgstr "Remixează"
+
+msgid "Remixing..."
+msgstr "Se remixează..."
+
+msgid "Remove extension blocks"
+msgstr ""
+
+msgid "Rename"
+msgstr "Redenumește"
+
+msgid "rename variable"
+msgstr "redenumește variabila"
+
+msgid "Replace existing project"
+msgstr ""
+
+msgid "Reshape"
+msgstr "Remodelează"
+
+msgid "resistance-A"
+msgstr "rezistența-A"
+
+msgid "resistance-B"
+msgstr "rezistența-B"
+
+msgid "resistance-C"
+msgstr "rezistența-C"
+
+msgid "resistance-D"
+msgstr "rezistența-D"
+
+msgid "reverse"
+msgstr "inversează"
+
+msgid "Revert"
+msgstr "Inversare"
+
+msgid "Reverting..."
+msgstr "Se inversează..."
+
+msgid "right"
+msgstr "dreapta"
+
+msgid "right arrow"
+msgstr "săgeată dreapta"
+
+msgid "rotation style:"
+msgstr "stil de rotire:"
+
+msgid "Run without screen refresh"
+msgstr "Rulează fără împrospătarea ecranului"
+
+msgid "Save"
+msgstr "Salvează"
+
+msgid "Save a copy of this project and add your own ideas."
+msgstr "Salvează o copie a acestui proiect si adaugă-ți propriile idei."
+
+msgid "Save as"
+msgstr "Salvează ca"
+
+msgid "Save as a copy"
+msgstr "Salveaza o copie"
+
+msgid "Save now"
+msgstr "Salvează acum"
+
+msgid "Save project?"
+msgstr "Salvezi proiectul?"
+
+msgid "save to local file"
+msgstr "salvează într-un fișier local"
+
+msgid "Saved"
+msgstr "Salvat"
+
+msgid "Saving changes..."
+msgstr "Se salvează modificările..."
+
+msgid "Saving..."
+msgstr "Se salvează..."
+
+msgid "Saxophone"
+msgstr "Saxofon"
+
+msgid "Scratch Updater"
+msgstr "Programul pentru actualizarea Scratch"
+
+msgid "Scratch 2.0 Offline Editor"
+msgstr ""
+
+msgid "Script"
+msgstr "Script"
+
+msgid "Scripts"
+msgstr "Scripturi"
+
+msgid "second"
+msgstr "al doilea"
+
+msgid "See project page"
+msgstr "Vezi pagina proiectului"
+
+msgid ""
+"See the Tips window (on the right) to install the plug-in and get the "
+"extension working."
+msgstr ""
+
+msgid "Select"
+msgstr "Selectează"
+
+msgid "select all"
+msgstr "selectează tot"
+
+msgid "Select and duplicate"
+msgstr "Selectează și creează o copie"
+
+msgid "Send to back"
+msgstr "Trimite în spate"
+
+msgid "Set Costume Center"
+msgstr "Setează Centrul Costumului"
+
+msgid "Set costume center"
+msgstr "Setează centrul costumului"
+
+msgid "set slider min and max"
+msgstr "setează minimul și maximul indicatorului"
+
+msgid "Share"
+msgstr "Împărtășește"
+
+msgid "Share to website"
+msgstr "Împărtășește pe site"
+
+msgid "Share to Scratch website"
+msgstr ""
+
+msgid "shared"
+msgstr "partajat"
+
+msgid "Shift:"
+msgstr "Shift:"
+
+msgid "show:"
+msgstr "afișează:"
+
+msgid "Shrink"
+msgstr "Micșorează"
+
+msgid "Side Stick"
+msgstr "Side stick"
+
+msgid "Sign in"
+msgstr "Autentificare"
+
+msgid "Sign in to save"
+msgstr "Autentifică-te pentru a salva"
+
+msgid "Sign out"
+msgstr "Iesire"
+
+msgid "silence"
+msgstr "liniște"
+
+msgid "sin"
+msgstr "sin"
+
+msgid "slider"
+msgstr "indicator"
+
+msgid "Slider Range"
+msgstr "Intervalul de Variație"
+
+msgid "Small stage layout"
+msgstr "Aspectul cu scenă mică"
+
+msgid "Smooth"
+msgstr "Netezire"
+
+msgid "Snare Drum"
+msgstr "Snare Drum"
+
+msgid "softer"
+msgstr "mai încet"
+
+msgid "sound"
+msgstr "sunet"
+
+msgid "Sound Library"
+msgstr "Bibliotecă de Sunete"
+
+msgid "Sounds"
+msgstr "Sunete"
+
+# 80%
+msgid "Space"
+msgstr "Spațiu"
+
+msgid "space"
+msgstr "spațiu"
+
+msgid "Sports"
+msgstr "Sporturi"
+
+# 85%
+msgid "Sprite"
+msgstr "Personaj"
+
+msgid "Sprite Library"
+msgstr "Bibliotecă de Personaje"
+
+# 85%
+msgid "Sprite1"
+msgstr "Personaj1"
+
+msgid "Sprites"
+msgstr "Personaje"
+
+msgid "sqrt"
+msgstr "radical"
+
+msgid "Square"
+msgstr "Pătrat"
+
+msgid "Stage"
+msgstr "Scenă"
+
+msgid "Stage selected:"
+msgstr "Scena selectată:"
+
+msgid "Steel Drum"
+msgstr "Tobă metalică"
+
+msgid "Synth Lead"
+msgstr "Synth Lead"
+
+msgid "Synth Pad"
+msgstr "Synth Pad"
+
+msgid "Tambourine"
+msgstr "Tamburină"
+
+msgid "tan"
+msgstr "tan"
+
+msgid "text"
+msgstr "text"
+
+msgid "Text"
+msgstr "Text"
+
+msgid "that way"
+msgstr "sens antiorar"
+
+msgid "The name is already in use."
+msgstr ""
+
+msgid ""
+"The project failed to load and Scratch Team has been notified. Press OK to "
+"leave this page."
+msgstr ""
+
+msgid "Theme"
+msgstr "Tema"
+
+msgid "Things"
+msgstr "Obiecte"
+
+msgid "thing"
+msgstr ""
+
+msgid "This is the current version."
+msgstr "Aceasta este versiunea curentă."
+
+msgid ""
+"This project can detect who is using it, through the “username” block. To "
+"hide your identity, sign out before using the project."
+msgstr ""
+"Acest proiect poate detecta cine îl foloseste, cu ajutorul blocului \"nume "
+"utilizator\". Pentru a-ți ascunde identitatea, ieși din cont înainte de a "
+"folosi proiectul."
+
+msgid ""
+"This project uses Cloud data ‒ a feature that is available only to signed in "
+"users."
+msgstr ""
+"Acest proiect folosește informații din cloud - o facilitate ce este "
+"disponibilă numai utilizatorilor autentificați."
+
+msgid "this script"
+msgstr "acest script"
+
+msgid "this sprite"
+msgstr "acest personaj"
+
+msgid "this way"
+msgstr "sens orar"
+
+msgid "Throw away all changes since opening this project?"
+msgstr "Renunți la toate modificările făcute de la deschiderea proiectului?"
+
+msgid "Tips"
+msgstr "Sfaturi"
+
+msgid "To delete a block definition, first remove all uses of the block."
+msgstr ""
+"Pentru a șterge definiția blocului, mai întâi ștergeți toate instanțierile "
+"acelui bloc."
+
+msgid "Transportation"
+msgstr "Transport"
+
+msgid "Triangle"
+msgstr "Triunghi"
+
+msgid "Trombone"
+msgstr "Trombon"
+
+msgid "true"
+msgstr ""
+
+msgid "Turbo mode"
+msgstr "Modul turbo"
+
+msgid "Turbo Mode"
+msgstr "Modul Turbo"
+
+msgid "Type"
+msgstr "Tip"
+
+# 75%
+msgid "Undelete"
+msgstr "Restaurează"
+
+msgid "Underwater"
+msgstr "Subacvatic"
+
+msgid "undo"
+msgstr "anulează ultima modificare"
+
+# 75%
+msgid "Undo"
+msgstr "Anulează ultima modificare"
+
+msgid "Undo Revert"
+msgstr "Anulează toate modificările"
+
+msgid "Ungroup"
+msgstr "Degrupează"
+
+msgid "unshared"
+msgstr "nepartajat"
+
+msgid "up"
+msgstr "sus"
+
+msgid "up arrow"
+msgstr "săgeată sus"
+
+msgid "Update failed"
+msgstr "Actualizarea a eșuat"
+
+msgid "Update not needed"
+msgstr "Nu este necesară actualizarea"
+
+msgid "Update now"
+msgstr "Actualizează acum"
+
+msgid "Upload backdrop from file"
+msgstr "Încarcă decor din fișier"
+
+msgid "Upload costume from file"
+msgstr "Încarcă un costum din fișier"
+
+msgid "Upload from your computer"
+msgstr "Încarcă de pe calculator"
+
+msgid "Upload sound from file"
+msgstr "Încarcă sunet din fișier"
+
+msgid "Upload sprite from file"
+msgstr "Încarcă personaj din fișier"
+
+msgid "Uploading image..."
+msgstr "Se încarcă imagine..."
+
+msgid "Uploading sound..."
+msgstr "Se încarcă sunet..."
+
+msgid "Uploading sprite..."
+msgstr "Se încarcă personaj..."
+
+msgid "variable"
+msgstr "variabilă"
+
+msgid "Variable name"
+msgstr "Denumirea variabilei"
+
+msgid "Vector"
+msgstr "Vectorial"
+
+msgid "Vector Mode"
+msgstr "Modul vectorial"
+
+msgid "Vibraphone"
+msgstr "Vibrafon"
+
+msgid "Vibraslap"
+msgstr "Vibraslap"
+
+msgid "video direction"
+msgstr "direcția video"
+
+msgid "video motion"
+msgstr "mișcarea video"
+
+msgid "Video on:"
+msgstr "Video:"
+
+msgid "Vocals"
+msgstr "Voci"
+
+msgid "Walking"
+msgstr "Plimbare"
+
+msgid "Want to save? Click remix"
+msgstr "Vrei să salvezi? Clic pe remixare"
+
+msgid "Which column do you want to import"
+msgstr "Care coloană vrei să o imporți?"
+
+msgid "What's your name?"
+msgstr ""
+
+msgid "whirl"
+msgstr "vârtej"
+
+msgid "Wood Block"
+msgstr "Bloc de lemn"
+
+msgid "Wooden Flute"
+msgstr "Flaut de lemn"
+
+msgid "world"
+msgstr ""
+
+msgid "year"
+msgstr "anul"
+
+msgid ""
+"You cannot edit cloud data in someone else's project.<br>Any change that you "
+"make in the editor will be temporary and not persistent."
+msgstr ""
+"Nu poți edita informațiile din cloud într-un proiect care aparține altcuiva."
+"<br>Orice modificare pe care o faci este temporară și nu se va păstra."
+
+msgid "Your Scratch name"
+msgstr "Numele tău Scratch"
+
+msgid "Your Scratch name is required"
+msgstr "Numele tău Scratch este necesar"
+
+# 92%
+#, fuzzy
+msgid "Eraser width:"
+msgstr "Grosimea radierei"
+
+# 90%
+#, fuzzy
+msgid "Line width:"
+msgstr "Grosimea liniei"
+
+# Offline editor only
+msgid "All Tips"
+msgstr "Toate Sfaturile"
+
+# Offline editor only
+msgid ""
+"An updated version of the Scratch offline editor is available on the Scratch "
+"website."
+msgstr ""
+"O versiune actualizată a editorului Scratch offline este disponibilă pe site-"
+"ul Scratch."
+
+# Offline editor only
+msgid "Could not retrieve update location from server."
+msgstr "Nu se poate regăsi pe server locația de actualizare."
+
+# Offline editor only
+msgid "Could not retrieve version information from server."
+msgstr "Nu se poate regăsi pe server informația despre versiune."
+
+# Offline editor only
+msgid "Could not write file:"
+msgstr "Nu se poate scrie fișierul:"
+
+# Offline editor only
+msgid "Downloading new version..."
+msgstr "Se descarcă versiunea nouă..."
+
+# Offline editor only
+msgid "Error saving project"
+msgstr "Eroare la salvarea proiectului"
+
+# Offline editor only
+msgid "Force help file update"
+msgstr "Forțează actualizarea fișierului de ajutor"
+
+# Offline editor only
+msgid "Import experimental HTTP extension"
+msgstr "Importă extensia HTTP experimentală"
+
+# Offline editor only
+msgid "Loading help files..."
+msgstr "Se încarcă fișierele pentru ajutor…"
+
+# Offline editor only
+msgid "Manual Update Available"
+msgstr "Este diponibilă o actualizare a manualului"
+
+# Offline editor only
+msgid "Open Project"
+msgstr "Deschide Proiect"
+
+# Offline editor only
+msgid "Please visit the download page to install it."
+msgstr "Vizitează pagina de descărcare pentru a-l instala."
+
+# Offline editor only
+msgid "Quit"
+msgstr "Ieșire"
+
+# Offline editor only
+msgid "Replace existing project?"
+msgstr "Înlocuiești proiectul existent?"
+
+# Offline editor only
+msgid "Running pre-release"
+msgstr "Rulează versiunea preliminară"
+
+# Offline editor only
+msgid "Save Project"
+msgstr "Salvează Proiectul"
+
+# Offline editor only
+msgid "Server error:"
+msgstr "Eroare server:"
+
+# Offline editor only
+msgid "Share to Scratch Website"
+msgstr "Împărtășește pe site-ul Scratch"
+
+# Offline editor only
+msgid "Success"
+msgstr "Succes"
+
+# Offline editor only
+msgid "This version is newer than the current release version."
+msgstr "Această versiune este mai nouă decât versiunea curentă."
+
+# Offline editor only
+msgid "Update check failed"
+msgstr "Verificarea actualizării a eșuat"
+
+# Offline editor only
+msgid "Upload failed"
+msgstr "Încărcarea a eșuat"
+
+# Offline editor only
+msgid "Visit download page"
+msgstr "Vizitează pagina de descărcare"
+
+# Offline editor only
+msgid "Your project has been uploaded to scratch.mit.edu"
+msgstr "Proiectul tău a fost încărcat pe scratch.mit.edu"
+
+msgid "any"
+msgstr "orice"
+
+msgid "Record Project Video"
+msgstr "Înregistrează o secvență video cu proiectul"
+
+msgid "Remove Background"
+msgstr "Elimină decorul"
+
+msgid "random position"
+msgstr "poziție aleatoare"
+
+# The language name as it will appear in the language menu
+#~ msgid "Language-Name"
+#~ msgstr "Română"
+
+#~ msgid "%m.list contains %s"
+#~ msgstr "%m.list conține %s"
+
+#~ msgid "go to %m.spriteOrMouse"
+#~ msgstr "du-te la %m.spriteOrMouse"
+
+# 89%
+#~ msgid "set motor direction %m.motorDirection"
+#~ msgstr "seteaza directia motorului la %m.motorDirection"
+
+# 77%
+#~ msgid "set motor power %n"
+#~ msgstr "seteaza puterea motorului la %n"
+
+#~ msgid "turn motor off"
+#~ msgstr "opreste motorul"
+
+#~ msgid "turn motor on"
+#~ msgstr "porneste motorul"
+
+# 80%
+#~ msgid "turn motor on for %n secs"
+#~ msgstr "porneste motorul pentru %n sec"
+
+#~ msgid "when distance < %n"
+#~ msgstr "cand distanta < %n"
+
+#~ msgid "when tilt = %n"
+#~ msgstr "cand inclinarea = %n"
+
+# 89%
+# 86%
+#, fuzzy
+#~ msgid "set %m.motor direction to %m.motorDirection"
+#~ msgstr "seteaza directia motorului la %m.motorDirection"
+
+#~ msgid "user id"
+#~ msgstr "id utilizator"
+
+#~ msgid "forever if %b"
+#~ msgstr "pentru totdeauna daca %b"
+
+#~ msgid "if %b"
+#~ msgstr "daca %b"
+
+#~ msgid "motor direction %m.motorDirection"
+#~ msgstr "sensul de rotatie al motorului %m.motorDirection"
+
+#~ msgid "motor off"
+#~ msgstr "motor oprit"
+
+#~ msgid "motor on"
+#~ msgstr "motor pornit"
+
+#~ msgid "motor on for %n secs"
+#~ msgstr "motor pornit pentru %n sec"
+
+#~ msgid "motor power %n"
+#~ msgstr "turatia motorului %n"
+
+#~ msgid "play note %n for %n beats"
+#~ msgstr "canta nota %d.note pentru %n timpi"
+
+#~ msgid "Cloud"
+#~ msgstr "Cloud"
+
+#~ msgid "Costumes:"
+#~ msgstr "Costume:"
+
+#~ msgid "limit reached"
+#~ msgstr "s-a atins limita"
+
+#~ msgid "requires sign in"
+#~ msgstr "este necesara logarea"
+
+#~ msgid "Scripts:"
+#~ msgstr "Script-uri:"
+
+#~ msgid "show receivers"
+#~ msgstr "afișează destinatarii"
+
+#~ msgid "show senders"
+#~ msgstr "afișează expeditorii"
+
+#~ msgid "stored on server"
+#~ msgstr "salvat pe server"
+
+#~ msgid ""
+#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+#~ "numbers are supported<br>Chat rooms are not allowed, and will be "
+#~ "removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
+#~ msgstr ""
+#~ "<b>Informatia despre variabilele Cloud</b><br>&nbsp;<br>In acest moment "
+#~ "sunt suportate numai numere<br>Camerele de chat nu sunt permise si vor fi "
+#~ "eliminate<br>Pentru mai multe informatii, <a href= target=>vezi sectiunea "
+#~ "cloud FAQ!</a>"
+
+#~ msgid "Click  to try again or  to save"
+#~ msgstr "Clic pentru a incerca din nou sau  pentru a salva"
+
+#~ msgid "Microphone Volume:"
+#~ msgstr "Volumul microfonului:"
+
+# 90%
+#, fuzzy
+#~ msgid "New sprite"
+#~ msgstr "Spiridus nou:"
+
+#~ msgid "Paint"
+#~ msgstr "Desen"
+
+#~ msgid "High Tom"
+#~ msgstr "High Tom"
+
+#~ msgid "Maracas"
+#~ msgstr "Maracas"
+
+#~ msgid "More"
+#~ msgstr "mai mult"

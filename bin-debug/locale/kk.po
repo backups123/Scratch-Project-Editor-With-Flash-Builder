@@ -1,0 +1,2100 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-04-25 22:29+0200\n"
+"PO-Revision-Date: 2016-03-14 22:25+0000\n"
+"Last-Translator: Anonymous Pootle User\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: kk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1457994348.000000\n"
+
+msgid "%b and %b"
+msgstr "%b және %b"
+
+msgid "%b or %b"
+msgstr "%b немесе %b"
+
+msgid "%m.attribute of %m.spriteOrStage"
+msgstr "%m.spriteOrStage ішіндегі %m.attribute"
+
+msgid "%m.mathOp of %n"
+msgstr "%n ішіндегі %m.mathOp"
+
+msgid "%m.sensor sensor value"
+msgstr ""
+
+msgid "%n mod %n"
+msgstr ""
+
+msgid "add %s to %m.list"
+msgstr ""
+
+msgid "answer"
+msgstr "жауап"
+
+msgid "ask %s and wait"
+msgstr "%s сұрау және күту"
+
+msgid "backdrop #"
+msgstr "фон #"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+msgid "backdrop name"
+msgstr ""
+
+msgid "broadcast %m.broadcast"
+msgstr "%m.broadcast тарату"
+
+msgid "broadcast %m.broadcast and wait"
+msgstr "%m.broadcast тарату және күту"
+
+msgid "change %m.effect effect by %n"
+msgstr ""
+
+msgid "change %m.var by %n"
+msgstr ""
+
+msgid "change pen color by %n"
+msgstr "қаламсаптың түсін өзгерту %n"
+
+msgid "change pen shade by %n"
+msgstr "қаламсап реңкін өзгерту %n"
+
+msgid "change pen size by %n"
+msgstr "қаламсап өлшемін өзгерту %n"
+
+msgid "change size by %n"
+msgstr "өлшемді өзгерту %n"
+
+msgid "change tempo by %n"
+msgstr "темпті өзгерту %n"
+
+msgid "change volume by %n"
+msgstr "дыбыс қаттылығын өзгерту %n"
+
+msgid "change x by %n"
+msgstr "x дегенді өзгерту %n"
+
+msgid "change y by %n"
+msgstr "y дегенді өзгерту %n"
+
+msgid "clear"
+msgstr "тазалау"
+
+msgid "clear graphic effects"
+msgstr "сызбалық әсерлерді тазалау"
+
+msgid "color %c is touching %c?"
+msgstr "%c түсі %c түсіне тиіп тұр ма?"
+
+msgid "Control"
+msgstr "бақылау"
+
+msgid "costume #"
+msgstr "костюм #"
+
+msgid "create clone of %m.spriteOnly"
+msgstr ""
+
+msgid "current %m.timeAndDate"
+msgstr ""
+
+msgid "Data"
+msgstr ""
+
+msgid "days since 2000"
+msgstr ""
+
+msgid "define"
+msgstr ""
+
+msgid "delete %d.listDeleteItem of %m.list"
+msgstr "%m.list ішіндегі %d.listDeleteItem жою"
+
+msgid "delete this clone"
+msgstr ""
+
+msgid "direction"
+msgstr "бағыт"
+
+msgid "distance"
+msgstr ""
+
+msgid "distance to %m.spriteOrMouse"
+msgstr "%m.spriteOrMouse дейінгі қашықтық"
+
+msgid "else"
+msgstr "әйтпесе"
+
+msgid "Events"
+msgstr ""
+
+msgid "forever"
+msgstr "үнемі"
+
+msgid "glide %n secs to x:%n y:%n"
+msgstr "x:%n y:%n нүктесіне %n секунд жүзу"
+
+msgid "go back %n layers"
+msgstr "%n қабат артқа өту"
+
+msgid "go to front"
+msgstr "үстіңгі қабатқа өту"
+
+msgid "go to x:%n y:%n"
+msgstr "x:%n y:%n бару"
+
+msgid "hide"
+msgstr "жасыру"
+
+msgid "hide list %m.list"
+msgstr ""
+
+msgid "hide variable %m.var"
+msgstr ""
+
+msgid "if %b then"
+msgstr ""
+
+msgid "if on edge, bounce"
+msgstr "шетте болса, әрі итерілу"
+
+msgid "insert %s at %d.listItem of %m.list"
+msgstr ""
+
+msgid "item %d.listItem of %m.list"
+msgstr "%m.list ішіндегі %d.listItem элемент"
+
+msgid "join %s %s"
+msgstr ""
+
+msgid "key %m.key pressed?"
+msgstr "%m.key пернесі басылған ба?"
+
+msgid "length of %m.list"
+msgstr "%m.list ұзындығы"
+
+msgid "length of %s"
+msgstr "%s ұзындығы"
+
+msgid "letter %n of %s"
+msgstr "%s ішіндегі %n әріп"
+
+msgid "Looks"
+msgstr "сыртқы түрі"
+
+msgid "loudness"
+msgstr "дыбыс қаттылығы"
+
+msgid "More Blocks"
+msgstr ""
+
+msgid "Motion"
+msgstr "қозғалыс"
+
+msgid "mouse down?"
+msgstr "тінтуір басылған ба?"
+
+msgid "mouse x"
+msgstr "тінтуір x бойынша"
+
+msgid "mouse y"
+msgstr "тінтуір y бойынша"
+
+msgid "move %n steps"
+msgstr "%n қадам жылжу"
+
+msgid "next backdrop"
+msgstr "келесі фон"
+
+msgid "next costume"
+msgstr "келесі костюм"
+
+msgid "not %b"
+msgstr "%b емес"
+
+msgid "Operators"
+msgstr "амалдар"
+
+msgid "Pen"
+msgstr "қауырсын"
+
+msgid "pen down"
+msgstr "қауырсынды түсіру"
+
+msgid "pen up"
+msgstr "қауырсынды көтеру"
+
+msgid "pick random %n to %n"
+msgstr ""
+
+msgid "play drum %d.drum for %n beats"
+msgstr "%d.drum барабанында %n такт ойнау"
+
+# 83%
+#, fuzzy
+msgid "play note %d.note for %n beats"
+msgstr "%d.note нотасын %n такт ойнау"
+
+msgid "play sound %m.sound"
+msgstr "%m.sound дыбысын ойнату"
+
+msgid "play sound %m.sound until done"
+msgstr "%m.sound дыбысын біткенше ойнату"
+
+msgid "point in direction %d.direction"
+msgstr "келесі бағытта бұрылу %d.direction"
+
+msgid "point towards %m.spriteOrMouse"
+msgstr "келесіге қарай бұрылу %m.spriteOrMouse"
+
+msgid "repeat %n"
+msgstr "қайталау %n"
+
+msgid "repeat until %b"
+msgstr "келесіге дейін қайталау %b"
+
+msgid "replace item %d.listItem of %m.list with %s"
+msgstr ""
+
+msgid "reset timer"
+msgstr "таймерді қайта іске қосу"
+
+msgid "rest for %n beats"
+msgstr "қалған %n такт"
+
+msgid "round %n"
+msgstr "дөңгелектеу %n"
+
+msgid "say %s"
+msgstr "айту %s"
+
+msgid "say %s for %n secs"
+msgstr "%s дегенді %n секунд бойы айту"
+
+msgid "Sensing"
+msgstr "сенсорлар"
+
+msgid "sensor %m.booleanSensor?"
+msgstr "сенсор %m.booleanSensor?"
+
+msgid "set %m.effect effect to %n"
+msgstr "%m.effect әсерін келесіге өзгерту %n"
+
+msgid "set %m.var to %s"
+msgstr ""
+
+msgid "set instrument to %d.instrument"
+msgstr "аспапты таңдау %d.instrument"
+
+msgid "set %m.motor2 direction to %m.motorDirection"
+msgstr ""
+
+msgid "set %m.motor power to %n"
+msgstr ""
+
+msgid "set pen color to %c"
+msgstr "қауырсын түсін орнату %c"
+
+msgid "set pen color to %n"
+msgstr "қауырсын түсін орнату %c"
+
+msgid "set pen shade to %n"
+msgstr "қауырсын реңкін келесіге орнату %n"
+
+msgid "set pen size to %n"
+msgstr "қауырсын өлшемін орнату %n"
+
+msgid "set rotation style %m.rotationStyle"
+msgstr ""
+
+msgid "set size to %n%"
+msgstr "өлшемді орнату %n%"
+
+msgid "set tempo to %n bpm"
+msgstr "темпті орнату %n соққы/минут"
+
+msgid "set video transparency to %n%"
+msgstr ""
+
+msgid "set volume to %n%"
+msgstr "дыбыс қаттылығын орнату %n%"
+
+msgid "set x to %n"
+msgstr "x дегенді келесіге орнату %n"
+
+msgid "set y to %n"
+msgstr "y дегенді келесіге орнату %n"
+
+msgid "show"
+msgstr "көрсету"
+
+msgid "show list %m.list"
+msgstr ""
+
+msgid "show variable %m.var"
+msgstr ""
+
+msgid "size"
+msgstr "өлшем"
+
+msgid "Sound"
+msgstr "дыбыс"
+
+msgid "stamp"
+msgstr "мөр"
+
+msgid "stop %m.stop"
+msgstr ""
+
+msgid "stop all sounds"
+msgstr "барлық дыбыстарды тоқтату"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+msgid "switch backdrop to %m.backdrop"
+msgstr ""
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+msgid "switch backdrop to %m.backdrop and wait"
+msgstr ""
+
+msgid "switch costume to %m.costume"
+msgstr ""
+
+msgid "tempo"
+msgstr "темп"
+
+msgid "think %s"
+msgstr "ойлау %s"
+
+msgid "think %s for %n secs"
+msgstr "%s дегенді %n секунд ойлау"
+
+msgid "tilt"
+msgstr ""
+
+msgid "timer"
+msgstr "таймер"
+
+msgid "touching %m.touching?"
+msgstr "%m.touching дегенге тиіп тұр ма?"
+
+msgid "touching color %c?"
+msgstr "%c түсіне тиіп тұр ма?"
+
+msgid "turn @turnLeft %n degrees"
+msgstr ""
+
+msgid "turn @turnRight %n degrees"
+msgstr ""
+
+msgid "turn %m.motor off"
+msgstr ""
+
+msgid "turn %m.motor on"
+msgstr ""
+
+msgid "turn %m.motor on for %n secs"
+msgstr ""
+
+msgid "turn video %m.videoState"
+msgstr ""
+
+msgid "username"
+msgstr ""
+
+msgid "video %m.videoMotionType on %m.stageOrThis"
+msgstr ""
+
+msgid "volume"
+msgstr "дыбыс қаттылығы"
+
+msgid "wait %n secs"
+msgstr "%n секунд күту"
+
+msgid "wait until %b"
+msgstr "келесіге дейін күту %b"
+
+# 75%
+#, fuzzy
+msgid "when %m.booleanSensor"
+msgstr "сенсор %m.booleanSensor?"
+
+msgid "when %m.key key pressed"
+msgstr "%m.key пернесін басқанда"
+
+msgid "when %m.sensor %m.lessMore %n"
+msgstr ""
+
+msgid "when %m.triggerSensor > %n"
+msgstr ""
+
+msgid "when @greenFlag clicked"
+msgstr "@greenFlag дегенді нұқығанда"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+msgid "when backdrop switches to %m.backdrop"
+msgstr ""
+
+msgid "when distance %m.lessMore %n"
+msgstr ""
+
+msgid "when I receive %m.broadcast"
+msgstr ""
+
+msgid "when I start as a clone"
+msgstr ""
+
+msgid "when Stage clicked"
+msgstr ""
+
+msgid "when this sprite clicked"
+msgstr ""
+
+msgid "when tilt %m.eNe %n"
+msgstr ""
+
+msgid "x position"
+msgstr "x орны"
+
+msgid "y position"
+msgstr "y орны"
+
+msgid "set motor direction %m.motorDirection"
+msgstr ""
+
+msgid "set motor power %n"
+msgstr ""
+
+msgid "turn motor off"
+msgstr ""
+
+msgid "turn motor on"
+msgstr ""
+
+msgid "turn motor on for %n secs"
+msgstr ""
+
+msgid "when distance < %n"
+msgstr ""
+
+msgid "when tilt = %n"
+msgstr ""
+
+#: commands-online.txt:7 commands-offline.txt:7
+#, fuzzy
+msgid "%m.list contains %s?"
+msgstr "%m.list құрамында %s бар"
+
+msgid "go to %m.location"
+msgstr "мұнда өту %m.location"
+
+msgid "10 ^"
+msgstr "10 ^"
+
+msgid ""
+"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+"numbers are supported<br>Chat rooms are not allowed, and will be "
+"removed<br>For more info, <a href=\"/help/faq/#clouddata\" target=\"_blank"
+"\">see the cloud data FAQ!</a>"
+msgstr ""
+
+msgid "A connected"
+msgstr "А қосылған"
+
+msgid "a copy of the project file on your computer."
+msgstr "てもとのコンピューターにあるさくひんのコピー。"
+
+#, fuzzy
+msgid "A newer version of Scratch is available"
+msgstr "Жаңа Скратч нұсқасы бар."
+
+msgid "About"
+msgstr "Біз туралы"
+
+msgid "About LEGO WeDo extension..."
+msgstr ""
+
+msgid "About PicoBoard extension..."
+msgstr ""
+
+msgid "abs"
+msgstr "модуль"
+
+msgid "Account settings"
+msgstr "アカウントせってい"
+
+msgid "acos"
+msgstr "acos"
+
+msgid "Add"
+msgstr "Қосу"
+
+msgid "Add an Extension"
+msgstr "Жұрнақты қосу"
+
+msgid "Add boolean input:"
+msgstr "しんぎちのひきすうをついか:"
+
+msgid "add comment"
+msgstr "Түсініктемені қосу"
+
+msgid "add comment here..."
+msgstr ""
+
+msgid "Add label text:"
+msgstr "ラベルのテキストをついか:"
+
+msgid "Add number input:"
+msgstr "すうちのひきすうをついか:"
+
+msgid "Add string input:"
+msgstr "もじれつのひきすうをついか:"
+
+msgid "all"
+msgstr "Барлық"
+
+msgid "All"
+msgstr "すべて"
+
+#, fuzzy
+msgid "all around"
+msgstr "Барлық айналасында"
+
+msgid "all motors"
+msgstr ""
+
+msgid "Animal"
+msgstr "Жануар"
+
+msgid "Animals"
+msgstr "Жануарлар"
+
+msgid "asin"
+msgstr "asin"
+
+msgid "assets loaded"
+msgstr "ауыспалылар жүктелді"
+
+msgid "atan"
+msgstr "atan"
+
+msgid "B connected"
+msgstr "B байланысқан"
+
+msgid "Back a layer"
+msgstr "Бір қабат төмен"
+
+# 88%
+#, fuzzy
+msgid "backdrop"
+msgstr "фон"
+
+#, fuzzy
+msgid "Backdrop"
+msgstr "Фон"
+
+msgid "Backdrop Library"
+msgstr "はいけいライブラリー"
+
+msgid "backdrop1"
+msgstr "фон 1"
+
+# 88%
+msgid "backdrops"
+msgstr "фондар"
+
+msgid "Backdrops"
+msgstr "фондар"
+
+#, fuzzy
+msgid "Backpack"
+msgstr "Дорба"
+
+msgid "Bass"
+msgstr "ベース"
+
+msgid "Bass Drum"
+msgstr "バスドラム"
+
+msgid "Bassoon"
+msgstr "Фагот"
+
+msgid ""
+"Because you have a new Scratch account, any changes to cloud data won't be "
+"saved yet. Keep participating on the site you'll be able to use cloud data "
+"soon!"
+msgstr ""
+
+msgid "Bitmap"
+msgstr "ビットマップ"
+
+msgid "Bitmap Mode"
+msgstr "ビットマップモード"
+
+msgid "Block help"
+msgstr "ブロックのヘルプ"
+
+msgid "Bongo"
+msgstr "Бонго"
+
+msgid "brightness"
+msgstr "жарықтық"
+
+msgid "Bring to front"
+msgstr "Алдыңғы қатарға шығару"
+
+#, fuzzy
+msgid "Broadcast"
+msgstr "Хабарлау"
+
+msgid "Brush"
+msgstr "Қылқалам"
+
+#, fuzzy
+msgid "button pressed"
+msgstr "түйме басылған"
+
+msgid "by"
+msgstr "さくしゃ"
+
+msgid "bytes loaded"
+msgstr "байт жүктелген"
+
+msgid "C connected"
+msgstr "C байланысқан"
+
+msgid "Cabasa"
+msgstr "Кабаса"
+
+msgid "Camera"
+msgstr "Камера"
+
+msgid "can drag in player:"
+msgstr "ойнатқышқа апара аласыз:"
+
+#, fuzzy
+msgid "Cancel"
+msgstr "Болдырмау"
+
+msgid "Cannot Add"
+msgstr ""
+
+msgid "Cannot Delete"
+msgstr "Жою мүмкін емес"
+
+msgid "Can’t find network connection or reach server."
+msgstr "ネットワークせつぞくがみつからないかとうたつできません。"
+
+msgid "Castle"
+msgstr "Қорған"
+
+msgid "Category"
+msgstr "Санат"
+
+#, fuzzy
+msgid "ceiling"
+msgstr "шектеу"
+
+msgid "Cello"
+msgstr "Виолончель"
+
+#, fuzzy
+msgid "Check for updates"
+msgstr "Жаңартуларды тексеру"
+
+msgid "Choir"
+msgstr "Хор"
+
+msgid "Choose backdrop from library"
+msgstr "ライブラリーからはいけいをせんたく"
+
+msgid "Choose costume from library"
+msgstr "ライブラリーからコスチュームをせんたく"
+
+msgid "Choose sound from library"
+msgstr "おとをライブラリーからせんたく"
+
+msgid "Choose sprite from library"
+msgstr "スプライトをライブラリーからせんたく"
+
+msgid "Circle"
+msgstr "Шеңбер"
+
+msgid "City"
+msgstr "Қала"
+
+msgid "Clarinet"
+msgstr "Кларнет"
+
+msgid "Claves"
+msgstr "Клавесин"
+
+msgid "clean up"
+msgstr ""
+
+msgid "Clear"
+msgstr "Тазарту"
+
+msgid "clear senders/receivers"
+msgstr "жіберушілерді / қабылдаушыларды тазарту"
+
+msgid "Click \"Save now\" to try again or \"Download\" to save"
+msgstr ""
+"「ただちにほぞん」をクリックしてさいしこうするか、「ダウンロード」でほぞんし"
+"てください"
+
+msgid "Close"
+msgstr "Жабу"
+
+msgid "Closed Hi-Hat"
+msgstr "Жабық хай-хэт"
+
+msgid "Cloud data"
+msgstr "クラウドデータ"
+
+msgid "Cloud variable (stored on server)"
+msgstr ""
+
+msgid "color"
+msgstr "түс"
+
+msgid "Color a shape"
+msgstr "Кескінді бояу"
+
+msgid "Conga"
+msgstr "Конга"
+
+msgid "Connecting to Cloud data server..."
+msgstr "クラウドデータサーバーにせつぞくしています..."
+
+msgid "Convert to bitmap"
+msgstr "ビットマップにへんかん"
+
+msgid "Convert to vector"
+msgstr "ベクターにへんかん"
+
+msgid "Converting mp3..."
+msgstr "mp3 форматына аудару..."
+
+#, fuzzy
+msgid "copy"
+msgstr "көшіру"
+
+msgid "Copying..."
+msgstr "Көшіру..."
+
+msgid "cos"
+msgstr "cos"
+
+msgid "Costume"
+msgstr "Костюм"
+
+msgid "Costume Library"
+msgstr "コスチュームライブラリー"
+
+msgid "costume name"
+msgstr "костюм аты"
+
+msgid "costume1"
+msgstr "костюм1"
+
+# 87%
+msgid "costume2"
+msgstr "костюм2"
+
+msgid "Costumes"
+msgstr "костюмдер"
+
+msgid "Costumes > 1"
+msgstr "Kостюмдер > 1"
+
+msgid "Could not retrieve new application from server."
+msgstr ""
+
+msgid "Cowbell"
+msgstr "カウベル"
+
+msgid "Crash Cymbal"
+msgstr "クラッシュシンバル"
+
+msgid "Creating..."
+msgstr "Жасалып жатыр..."
+
+msgid "Currently, only numbers can be stored in Cloud variables."
+msgstr "げんざい、クラウドへんすうにはすうちのみかくのうできます。"
+
+msgid "cut"
+msgstr "кесіп алу"
+
+msgid "D connected"
+msgstr "D байланысқан"
+
+#, fuzzy
+msgid "date"
+msgstr "күні"
+
+msgid "day of week"
+msgstr "апта күні"
+
+#, fuzzy
+msgid "delete"
+msgstr "өшіру"
+
+# 83%
+#, fuzzy
+msgid "Delete"
+msgstr "Жою"
+
+msgid "delete variable"
+msgstr "айнымалыны өшіру"
+
+msgid "direction:"
+msgstr "бағыты:"
+
+msgid "don't rotate"
+msgstr "Айналдурмау"
+
+msgid "Don't save"
+msgstr "Сақтамау"
+
+#, fuzzy
+msgid "down"
+msgstr "төмен"
+
+msgid "down arrow"
+msgstr "したむきやじるし"
+
+msgid "Download"
+msgstr "Жүктеп алу"
+
+msgid "Download to your computer"
+msgstr "Компьютерге жүктеп алу"
+
+msgid "Downloading new version"
+msgstr ""
+
+#, fuzzy
+msgid "duplicate"
+msgstr "көшірмесін жасау"
+
+#, fuzzy
+msgid "Duplicate"
+msgstr "Көшірмесін жасау"
+
+msgid "e ^"
+msgstr "e ^"
+
+#, fuzzy
+msgid "edge"
+msgstr "шет"
+
+#, fuzzy
+msgid "Edit"
+msgstr "Өңдеу"
+
+#, fuzzy
+msgid "edit"
+msgstr "өңдеу"
+
+msgid "Edit Block"
+msgstr "Блокты өңдеу"
+
+msgid "Effects"
+msgstr "Эффекттер"
+
+msgid "Electric Guitar"
+msgstr "Электрикалық гитара"
+
+msgid "Electric Piano"
+msgstr "Электрикалық пианино"
+
+msgid "Electronic"
+msgstr "Электроника"
+
+msgid "Ellipse"
+msgstr "Эллипс"
+
+msgid "empty"
+msgstr ""
+
+msgid "Erase"
+msgstr "Өшіргіш"
+
+msgid "Erase all"
+msgstr ""
+
+# 92%
+#, fuzzy
+msgid "Eraser width"
+msgstr "Өшіргіш ені"
+
+msgid "Error!"
+msgstr "Қате!"
+
+msgid "everything"
+msgstr ""
+
+msgid "export"
+msgstr "экспорттау"
+
+msgid "Extension Library"
+msgstr ""
+
+msgid "Extension Problem"
+msgstr ""
+
+msgid "fade in"
+msgstr "フェードイン"
+
+msgid "fade out"
+msgstr "フェードアウト"
+
+msgid "false"
+msgstr ""
+
+msgid "Fantasy"
+msgstr "Қиял"
+
+msgid "Features"
+msgstr "Мүміндіктер"
+
+msgid "File"
+msgstr "Файл"
+
+msgid "Fill with color"
+msgstr "Түспен толтыру"
+
+msgid "fisheye"
+msgstr "ぎょがんレンズ"
+
+#, fuzzy
+msgid "Flip left-right"
+msgstr "Солдан оңға аудару"
+
+msgid "Flip up-down"
+msgstr "じょうげをはんてん"
+
+msgid "floor"
+msgstr "きりさげ"
+
+msgid "Flute"
+msgstr "Сыбызғы"
+
+msgid "Flying"
+msgstr "とぶ"
+
+msgid "Font:"
+msgstr "Қаріп:"
+
+msgid "For all sprites"
+msgstr "Барлық спрайтар үшін"
+
+msgid "For this sprite only"
+msgstr "Тек осы спрайт үшін"
+
+msgid "Forward a layer"
+msgstr "レイヤーをあげる"
+
+msgid "ghost"
+msgstr "ゆうれい"
+
+msgid "Go to My Stuff"
+msgstr "わたしのさくひんへいく"
+
+msgid "Group"
+msgstr "Топтау"
+
+msgid "Grow"
+msgstr "Ұлғайту"
+
+msgid "Guiro"
+msgstr "Гуиро"
+
+msgid "Guitar"
+msgstr "Гитара"
+
+msgid "Hand Clap"
+msgstr "Шапалақтау"
+
+msgid "Hardware"
+msgstr "Құрылғы"
+
+msgid "help"
+msgstr "көмек"
+
+msgid "Hello!"
+msgstr ""
+
+msgid "Hmm..."
+msgstr ""
+
+#, fuzzy
+msgid "hello"
+msgstr "チェロ"
+
+msgid "High C"
+msgstr "Жоғарғы C"
+
+msgid "Holiday"
+msgstr "Демалыс"
+
+msgid "hour"
+msgstr "сағат"
+
+msgid "Human"
+msgstr "Адам"
+
+# 83%
+#, fuzzy
+msgid "import"
+msgstr "импорттау"
+
+msgid "Import"
+msgstr "Импорттау"
+
+msgid "Importing sound..."
+msgstr "Дыбысты импорттау ..."
+
+#, fuzzy
+msgid "Indoors"
+msgstr "Ғимарат ішінде"
+
+msgid "Installing..."
+msgstr "Орнату..."
+
+msgid "Instruments"
+msgstr "Аспаптар"
+
+msgid "large readout"
+msgstr ""
+
+msgid "last"
+msgstr "соңғы"
+
+msgid "left"
+msgstr "солға"
+
+msgid "left arrow"
+msgstr "ひだりむきやじるし"
+
+msgid "left-right"
+msgstr "солға-оңға"
+
+msgid "length"
+msgstr "ұзындық"
+
+msgid "Letters"
+msgstr "Әріптер"
+
+#, fuzzy
+msgid "Library"
+msgstr "Жиын"
+
+#, fuzzy
+msgid "light"
+msgstr "жарық"
+
+# 83%
+#, fuzzy
+msgid "lights"
+msgstr "あかるさ"
+
+msgid "Line"
+msgstr "Сызық"
+
+# 90%
+#, fuzzy
+msgid "Line width"
+msgstr "Сызықтың енi"
+
+msgid "list"
+msgstr "тізім"
+
+msgid "List name"
+msgstr "Tiзiм аты"
+
+msgid "ln"
+msgstr "ln"
+
+msgid "Loading project..."
+msgstr "Жобаны жүктеу..."
+
+msgid "log"
+msgstr "log"
+
+msgid "louder"
+msgstr "おおきく"
+
+msgid "Low C"
+msgstr "Төменгі C"
+
+msgid "Make a Block"
+msgstr "Блок жасау"
+
+msgid "Make a List"
+msgstr "Тізім жасау"
+
+#, fuzzy
+msgid "Make a Variable"
+msgstr "Айнымалы жасау"
+
+msgid "Marimba"
+msgstr "Маримба"
+
+msgid "Max"
+msgstr "Максимум"
+
+msgid "meow"
+msgstr "мияу"
+
+msgid "Message Name"
+msgstr "メッセージめい"
+
+msgid "message1"
+msgstr "メッセージ1"
+
+msgid "Microphone volume:"
+msgstr "Микрофон дауысы"
+
+msgid "Middle C"
+msgstr "Ортаңғы C"
+
+msgid "Min"
+msgstr "Минимум"
+
+msgid "minute"
+msgstr "минут"
+
+msgid "month"
+msgstr "ай"
+
+msgid "mosaic"
+msgstr "モザイク"
+
+#, fuzzy
+msgid "motion"
+msgstr "қимыл"
+
+msgid "motor"
+msgstr ""
+
+msgid "motor A"
+msgstr ""
+
+msgid "motor B"
+msgstr ""
+
+msgid "mouse-pointer"
+msgstr "マウスのポインター"
+
+msgid "Multiple"
+msgstr "Көбейту"
+
+msgid "Music and Dance"
+msgstr "Ән және би"
+
+msgid "Music Box"
+msgstr "ミュージックボックス"
+
+msgid "Music Loops"
+msgstr "おんがくのループ"
+
+msgid "My Stuff"
+msgstr "わたしのさくひん"
+
+msgid "myself"
+msgstr "өзім"
+
+msgid "Nature"
+msgstr "Табиғат"
+
+#, fuzzy
+msgid "New"
+msgstr "Жаңа"
+
+msgid "New backdrop from camera"
+msgstr "カメラからあたらしいはいけいをつくる"
+
+msgid "New backdrop:"
+msgstr "Жаңа фон"
+
+msgid "New Block"
+msgstr "Жаңа Блок"
+
+msgid "New costume from camera"
+msgstr "カメラからあたらしいコスチュームをつくる"
+
+msgid "New costume:"
+msgstr "Жаңа костюм:"
+
+msgid "New List"
+msgstr "Жаңа тізім"
+
+msgid "New Message"
+msgstr "Жаңа Хабарлама"
+
+msgid "new message..."
+msgstr "あたらしいメッセージ..."
+
+msgid "New name"
+msgstr "Жаңа есім"
+
+msgid "New sound:"
+msgstr "Жаңа дыбыс:"
+
+msgid "New sprite from camera"
+msgstr "カメラからあたらしいスプライトをつくる"
+
+msgid "New sprite:"
+msgstr "Жаңа спрайт:"
+
+msgid "New Variable"
+msgstr "Жаңа айнымалы"
+
+msgid "No motion blocks"
+msgstr "うごきのブロックはありません"
+
+msgid "normal readout"
+msgstr ""
+
+msgid "not ="
+msgstr ""
+
+msgid "Not saved; network or server problem."
+msgstr "ほぞんできません。ネットワークかサーバーにもんだいがあります。"
+
+msgid "Not saved; project did not load."
+msgstr "Сақталған жоқ; жоба жүктелген жоқ."
+
+msgid "of"
+msgstr "の"
+
+msgid "off"
+msgstr "せつ"
+
+#, fuzzy
+msgid "Offline Editor"
+msgstr "Оффлайн редактор"
+
+msgid "OK"
+msgstr "Жақсы"
+
+msgid "on"
+msgstr "қосу"
+
+msgid "on-flipped"
+msgstr "さゆうはんてん"
+
+msgid "Open"
+msgstr ""
+
+msgid "Open Cuica"
+msgstr "Ашық Куика"
+
+msgid "Open Hi-Hat"
+msgstr "Ашық хай-хэт"
+
+msgid "Options"
+msgstr "オプション"
+
+msgid "Organ"
+msgstr "オルガン"
+
+msgid "Other"
+msgstr "そのた"
+
+# 82%
+msgid "other scripts in sprite"
+msgstr "スプライトのほかのスクリプト"
+
+# 82%
+#, fuzzy
+msgid "other scripts in stage"
+msgstr "сахнадағы басқа скрипттер"
+
+msgid "Outdoors"
+msgstr "おくがい"
+
+msgid "Paint new backdrop"
+msgstr "あたらしいはいけいをえがく"
+
+msgid "Paint new costume"
+msgstr "あたらしいコスチュームをえがく"
+
+msgid "Paint new sprite"
+msgstr "あたらしいスプライトをえがく"
+
+msgid "Password"
+msgstr ""
+
+msgid "Password is required"
+msgstr ""
+
+msgid "paste"
+msgstr "はりつきけ"
+
+msgid "Pencil"
+msgstr "えんぴつ"
+
+msgid "People"
+msgstr "ひと"
+
+msgid "Percussion"
+msgstr "だがっき"
+
+msgid "photo1"
+msgstr "しゃしん1"
+
+msgid "Piano"
+msgstr "ピアノ"
+
+msgid "Pick up color"
+msgstr "いろをえらぶ"
+
+msgid "pixelate"
+msgstr "ピクセルか"
+
+msgid "Pizzicato"
+msgstr "ピチカート"
+
+msgid "pop"
+msgstr "ポップ"
+
+msgid "previous backdrop"
+msgstr ""
+
+msgid "Profile"
+msgstr "プロフィール"
+
+msgid "Project did not load."
+msgstr "Жоба жүктелген жоқ"
+
+msgid "Project not saved!"
+msgstr "さくひんはほぞんされていません!"
+
+msgid "Project name"
+msgstr ""
+
+msgid "Project name is required"
+msgstr ""
+
+msgid "random"
+msgstr "らんすう"
+
+msgid "Record"
+msgstr "ろくおん"
+
+msgid "Record new sound"
+msgstr "あたらしいおとをろくおん"
+
+msgid "record..."
+msgstr "жазу..."
+
+msgid "recording1"
+msgstr "ろくおん1"
+
+msgid "Rectangle"
+msgstr "しかくけい"
+
+msgid "Redo"
+msgstr "やりなおし"
+
+msgid "redo"
+msgstr "やりなおし"
+
+msgid "Remix"
+msgstr "リミックス"
+
+msgid "Remixing..."
+msgstr "リミックスちゅう..."
+
+msgid "Remove extension blocks"
+msgstr ""
+
+msgid "Rename"
+msgstr "なまえをへんこう"
+
+msgid "rename variable"
+msgstr "へんすうめいをへんこう"
+
+msgid "Replace existing project"
+msgstr ""
+
+msgid "Reshape"
+msgstr "かたちをかえる"
+
+msgid "resistance-A"
+msgstr "ていこう-A"
+
+msgid "resistance-B"
+msgstr "ていこう-B"
+
+msgid "resistance-C"
+msgstr "ていこう-C"
+
+msgid "resistance-D"
+msgstr "ていこう-D"
+
+msgid "reverse"
+msgstr "ぎゃくむき"
+
+msgid "Revert"
+msgstr "ふくげん"
+
+msgid "Reverting..."
+msgstr "ふくげんちゅう..."
+
+msgid "right"
+msgstr "みぎ"
+
+msgid "right arrow"
+msgstr "みぎむきやじるし"
+
+msgid "rotation style:"
+msgstr "かいてんのしゅるい:"
+
+msgid "Run without screen refresh"
+msgstr "がめんをさいびょうがせずにじっこうする"
+
+msgid "Save"
+msgstr "ほぞん"
+
+#, fuzzy
+msgid "Save a copy of this project and add your own ideas."
+msgstr "Бұл жобаның көшірмесін сақта және өз идеяларынды қос."
+
+msgid "Save as"
+msgstr ""
+
+msgid "Save as a copy"
+msgstr "コピーをほぞん"
+
+msgid "Save now"
+msgstr "ただちにほぞん"
+
+msgid "Save project?"
+msgstr "Жобаны сақтау?"
+
+msgid "save to local file"
+msgstr "ローカルファイルにほぞん"
+
+msgid "Saved"
+msgstr "ほぞんしました"
+
+msgid "Saving changes..."
+msgstr "へんこうをほぞん..."
+
+msgid "Saving..."
+msgstr "ほぞんちゅう..."
+
+msgid "Saxophone"
+msgstr "サクソフォーン"
+
+msgid "Scratch Updater"
+msgstr ""
+
+msgid "Scratch 2.0 Offline Editor"
+msgstr ""
+
+msgid "Script"
+msgstr "スクリプト"
+
+msgid "Scripts"
+msgstr "スクリプト"
+
+msgid "second"
+msgstr "びょう"
+
+msgid "See project page"
+msgstr "プロジェクトページさんしょう"
+
+msgid ""
+"See the Tips window (on the right) to install the plug-in and get the "
+"extension working."
+msgstr ""
+
+msgid "Select"
+msgstr "せんたく"
+
+msgid "select all"
+msgstr "すべてをせんたく"
+
+msgid "Select and duplicate"
+msgstr "せんたくしてふくせい"
+
+msgid "Send to back"
+msgstr "うしろにおくる"
+
+msgid "Set Costume Center"
+msgstr "コスチュームのちゅうしんをせってい"
+
+msgid "Set costume center"
+msgstr "コスチュームのちゅうしんをせってい"
+
+msgid "set slider min and max"
+msgstr "жүгірткінің минимумы мен максимумын орнату"
+
+msgid "Share"
+msgstr "きょうゆう"
+
+msgid "Share to website"
+msgstr ""
+
+msgid "Share to Scratch website"
+msgstr ""
+
+msgid "shared"
+msgstr "きょうゆうちゅう"
+
+msgid "Shift:"
+msgstr "シフト:"
+
+msgid "show:"
+msgstr "ひょうじする:"
+
+msgid "Shrink"
+msgstr "しゅくしょう"
+
+msgid "Side Stick"
+msgstr "サイドスティック"
+
+msgid "Sign in"
+msgstr "サインイン"
+
+msgid "Sign in to save"
+msgstr "ほぞんするためにサインイン"
+
+msgid "Sign out"
+msgstr "サインアウト"
+
+msgid "silence"
+msgstr "サイレンス"
+
+msgid "sin"
+msgstr "sin"
+
+msgid "slider"
+msgstr "スライダー"
+
+msgid "Slider Range"
+msgstr "スライダーのはんい"
+
+msgid "Small stage layout"
+msgstr "ちいさいステージ"
+
+msgid "Smooth"
+msgstr "なめらか"
+
+msgid "Snare Drum"
+msgstr "スネアドラム"
+
+msgid "softer"
+msgstr "やわらかく"
+
+msgid "sound"
+msgstr "おと"
+
+msgid "Sound Library"
+msgstr "おとライブラリー"
+
+msgid "Sounds"
+msgstr "おと"
+
+msgid "Space"
+msgstr "うちゅう"
+
+msgid "space"
+msgstr "スペース"
+
+msgid "Sports"
+msgstr "スポーツ"
+
+# 85%
+msgid "Sprite"
+msgstr "スプライト"
+
+msgid "Sprite Library"
+msgstr "スプライトライブラリー"
+
+msgid "Sprite1"
+msgstr "スプライト1"
+
+msgid "Sprites"
+msgstr "スプライト"
+
+msgid "sqrt"
+msgstr "へいほうこん"
+
+msgid "Square"
+msgstr "せいほうけい"
+
+msgid "Stage"
+msgstr "ステージ"
+
+msgid "Stage selected:"
+msgstr "せんたくされたステージ:"
+
+msgid "Steel Drum"
+msgstr "スチールドラム"
+
+msgid "Synth Lead"
+msgstr "シンセリード"
+
+msgid "Synth Pad"
+msgstr "シンセパッド"
+
+msgid "Tambourine"
+msgstr "タンバリン"
+
+msgid "tan"
+msgstr "tan"
+
+#, fuzzy
+msgid "text"
+msgstr "мәтін"
+
+msgid "Text"
+msgstr "テキスト"
+
+msgid "that way"
+msgstr "あちらむき"
+
+msgid "The name is already in use."
+msgstr ""
+
+msgid ""
+"The project failed to load and Scratch Team has been notified. Press OK to "
+"leave this page."
+msgstr ""
+
+msgid "Theme"
+msgstr "テーマ"
+
+msgid "Things"
+msgstr "もの"
+
+msgid "thing"
+msgstr ""
+
+msgid "This is the current version."
+msgstr ""
+
+msgid ""
+"This project can detect who is using it, through the “username” block. To "
+"hide your identity, sign out before using the project."
+msgstr ""
+"このプロジェクトは「ユーザーめい」ブロックをつかって、だれがつかっているかを"
+"けんしゅつします。とくていされたくないばあいはこのプロジェクトをつかうまえに"
+"サインアウトしてください。"
+
+msgid ""
+"This project uses Cloud data ‒ a feature that is available only to signed in "
+"users."
+msgstr ""
+
+msgid "this script"
+msgstr "このスクリプト"
+
+msgid "this sprite"
+msgstr "このスプライト"
+
+msgid "this way"
+msgstr "こちらむき"
+
+msgid "Throw away all changes since opening this project?"
+msgstr "このプロジェクトをひらいたあとのすべてのへんこうをすてますか?"
+
+msgid "Tips"
+msgstr "ヒント"
+
+msgid "To delete a block definition, first remove all uses of the block."
+msgstr ""
+"ブロックのていぎをさくじょするには、まずそのブロックをつかっているかしょをけ"
+"してください。"
+
+msgid "Transportation"
+msgstr "のりもの"
+
+msgid "Triangle"
+msgstr "さんかっけい"
+
+msgid "Trombone"
+msgstr "トロンボーン"
+
+msgid "true"
+msgstr ""
+
+msgid "Turbo mode"
+msgstr "ターボモード"
+
+msgid "Turbo Mode"
+msgstr "ターボモード"
+
+msgid "Type"
+msgstr "タイプ"
+
+# 75%
+#, fuzzy
+msgid "Undelete"
+msgstr "Өшірілгенді қалпына келтіру"
+
+msgid "Underwater"
+msgstr "かいちゅう"
+
+msgid "undo"
+msgstr "とりけし"
+
+msgid "Undo"
+msgstr "とりけし"
+
+msgid "Undo Revert"
+msgstr "とりけしかいふく"
+
+msgid "Ungroup"
+msgstr "グループかいじょ"
+
+msgid "unshared"
+msgstr "きょうゆうしていない"
+
+msgid "up"
+msgstr "うえ"
+
+msgid "up arrow"
+msgstr "うわむきやじるし"
+
+msgid "Update failed"
+msgstr ""
+
+msgid "Update not needed"
+msgstr ""
+
+msgid "Update now"
+msgstr ""
+
+msgid "Upload backdrop from file"
+msgstr "ファイルからあたらしいはいけいをアップロード"
+
+msgid "Upload costume from file"
+msgstr "ファイルからあたらしいコスチュームをアップロード"
+
+msgid "Upload from your computer"
+msgstr "てもとのコンピューターからアップロード"
+
+msgid "Upload sound from file"
+msgstr "ファイルからあたらしいおとをアップロード"
+
+msgid "Upload sprite from file"
+msgstr "ファイルからあたらしいスプライトをアップロード"
+
+msgid "Uploading image..."
+msgstr "がぞうをアップロードちゅう..."
+
+msgid "Uploading sound..."
+msgstr "おとをアップロードちゅう..."
+
+msgid "Uploading sprite..."
+msgstr "スプライトをアップロードちゅう..."
+
+msgid "variable"
+msgstr "へんすう"
+
+msgid "Variable name"
+msgstr "へんすうめい"
+
+msgid "Vector"
+msgstr "ベクター"
+
+msgid "Vector Mode"
+msgstr "ベクターモード"
+
+msgid "Vibraphone"
+msgstr "ビブラフォン"
+
+msgid "Vibraslap"
+msgstr "ビブラスラップ"
+
+msgid "video direction"
+msgstr "видео бағыты"
+
+msgid "video motion"
+msgstr "ビデオモーション"
+
+msgid "Video on:"
+msgstr "ビデオ:"
+
+msgid "Vocals"
+msgstr "ボーカル"
+
+msgid "Walking"
+msgstr "ほこう"
+
+msgid "Want to save? Click remix"
+msgstr "ほぞんしたいですか? リミックスをクリックしてください"
+
+msgid "Which column do you want to import"
+msgstr "どちらのカラムをとりこみたいですか"
+
+msgid "What's your name?"
+msgstr ""
+
+msgid "whirl"
+msgstr "うずまき"
+
+msgid "Wood Block"
+msgstr "ウッドブロック"
+
+msgid "Wooden Flute"
+msgstr "もっかんフルート"
+
+msgid "world"
+msgstr ""
+
+msgid "year"
+msgstr "とし"
+
+msgid ""
+"You cannot edit cloud data in someone else's project.<br>Any change that you "
+"make in the editor will be temporary and not persistent."
+msgstr ""
+
+msgid "Your Scratch name"
+msgstr ""
+
+msgid "Your Scratch name is required"
+msgstr ""
+
+msgid ""
+"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+"numbers are supported<br>Chat rooms are not allowed, and will be "
+"removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
+msgstr ""
+
+# Offline editor only
+msgid "All Tips"
+msgstr "Барлық кеңестер"
+
+# Offline editor only
+msgid ""
+"An updated version of the Scratch offline editor is available on the Scratch "
+"website."
+msgstr ""
+
+# Offline editor only
+msgid "Could not retrieve update location from server."
+msgstr ""
+
+# Offline editor only
+msgid "Could not retrieve version information from server."
+msgstr ""
+
+# Offline editor only
+msgid "Could not write file:"
+msgstr "Файлды жазу мүмкін емес:"
+
+# Offline editor only
+msgid "Downloading new version..."
+msgstr "Жаңа нұсқа жүктелуде ..."
+
+# Offline editor only
+msgid "Error saving project"
+msgstr ""
+
+# Offline editor only
+msgid "Force help file update"
+msgstr ""
+
+# Offline editor only
+msgid "Import experimental HTTP extension"
+msgstr ""
+
+# Offline editor only
+msgid "Loading help files..."
+msgstr ""
+
+# Offline editor only
+msgid "Manual Update Available"
+msgstr ""
+
+# Offline editor only
+msgid "Open Project"
+msgstr ""
+
+# Offline editor only
+msgid "Please visit the download page to install it."
+msgstr ""
+
+# Offline editor only
+msgid "Quit"
+msgstr ""
+
+# Offline editor only
+msgid "Replace existing project?"
+msgstr ""
+
+# Offline editor only
+msgid "Running pre-release"
+msgstr ""
+
+# Offline editor only
+#, fuzzy
+msgid "Save Project"
+msgstr "Жобаны сақтау?"
+
+# Offline editor only
+msgid "Server error:"
+msgstr "Сервер қатесі:"
+
+# Offline editor only
+msgid "Share to Scratch Website"
+msgstr ""
+
+# Offline editor only
+msgid "Success"
+msgstr ""
+
+# Offline editor only
+msgid "This version is newer than the current release version."
+msgstr ""
+
+# Offline editor only
+msgid "Update check failed"
+msgstr ""
+
+# Offline editor only
+msgid "Upload failed"
+msgstr ""
+
+# Offline editor only
+msgid "Visit download page"
+msgstr ""
+
+# Offline editor only
+msgid "Your project has been uploaded to scratch.mit.edu"
+msgstr ""
+
+msgid "any"
+msgstr "кез келген"
+
+msgid "Record Project Video"
+msgstr ""
+
+msgid "Remove Background"
+msgstr ""
+
+msgid "random position"
+msgstr ""
+
+# The language name as it will appear in the language menu
+#~ msgid "Language-Name"
+#~ msgstr "Kazakh"
+
+#~ msgid "%m.list contains %s"
+#~ msgstr "%m.list құрамында %s бар"
+
+#~ msgid "go to %m.spriteOrMouse"
+#~ msgstr "мұнда өту %m.spriteOrMouse"
+
+#~ msgid "forever if %b"
+#~ msgstr "%b болса, үнемі"
+
+#~ msgid "if %b"
+#~ msgstr "%b болса"
+
+#~ msgid "play note %n for %n beats"
+#~ msgstr "%d.note нотасын %n такт ойнау"
+
+#~ msgid "Cloud"
+#~ msgstr "クラウド"
+
+#~ msgid "Costumes:"
+#~ msgstr "コスチューム:"
+
+#~ msgid "limit reached"
+#~ msgstr "げんかいにとうたつ"
+
+#~ msgid "requires sign in"
+#~ msgstr "サインインがひつようです"
+
+#~ msgid "Scripts:"
+#~ msgstr "スクリプト:"
+
+#~ msgid "show receivers"
+#~ msgstr "レシーバーをひょうじ"
+
+#~ msgid "show senders"
+#~ msgstr "センダーをひょうじ"
+
+#~ msgid "stored on server"
+#~ msgstr "サーバーへかくのう"
+
+#~ msgid "Click  to try again or  to save"
+#~ msgstr ""
+#~ "「ただちにほぞん」をクリックしてさいしこうするか、「ダウンロード」でほぞん"
+#~ "してください"
+
+#~ msgid "Eraser width:"
+#~ msgstr "けしゴムのはば:"
+
+#~ msgid "Line width:"
+#~ msgstr "せんのはば:"
+
+#~ msgid "Costumes &gt; 1"
+#~ msgstr "コスチューム &gt; 1"
+
+#~ msgid ""
+#~ "This project uses Cloud data ??? a feature that is available only to "
+#~ "signed in users."
+#~ msgstr ""
+#~ "このプロジェクトはクラウドデータをつかっています。このきのうはサインインし"
+#~ "たユーザーだけつかうことができます。"
+
+#~ msgid ""
+#~ "You cannot edit cloud data in someone else's project.<BR>Any change that "
+#~ "you make in the editor will be temporary and not persistent."
+#~ msgstr ""
+#~ "ほかのひとのプロジェクトのクラウドデータをへんしゅうすることはできません。"
+#~ "<BR>エディターでいったへんこうはいちじてきなものでえいぞくせいはありませ"
+#~ "ん。"
+
+#~ msgid "Add a boolean input:"
+#~ msgstr "しんぎちのひきすうをついか:"
+
+#~ msgid "Add a number input:"
+#~ msgstr "すうちのひきすうをついか:"
+
+#~ msgid "Add a string input:"
+#~ msgstr "もじれつのひきすうをついか:"
+
+#~ msgid "Back a layer (Shift: Send to back)"
+#~ msgstr "うしろにおくる (シフト: さいはいめんにする)"
+
+#~ msgid "Duplicate (Shift: Multiple)"
+#~ msgstr "ふくせい (シフト: ふくすうかい)"
+
+#~ msgid "Ellipse (Shift: Circle)"
+#~ msgstr "だえん (シフト: えん)"
+
+#~ msgid "Fill"
+#~ msgstr "ぬりつぶす"
+
+#~ msgid "Forward a layer (Shift: Bring to front)"
+#~ msgstr "まえにだす (シフト: さいぜんめんにする)"
+
+#~ msgid "login"
+#~ msgstr "ログイン"
+
+#~ msgid "New backdrop"
+#~ msgstr "あたらしいはいけい"
+
+#~ msgid "New costume"
+#~ msgstr "あたらしいコスチューム"
+
+#~ msgid "New sound"
+#~ msgstr "あたらしいおと"

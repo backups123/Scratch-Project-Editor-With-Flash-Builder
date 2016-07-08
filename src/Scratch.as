@@ -79,8 +79,8 @@ public class Scratch extends Sprite {
 
 	// Display modes
 	public var hostProtocol:String = 'http';
-	public var editMode:Boolean; // true when project editor showing, false when only the player is showing
-	public var isOffline:Boolean; // true when running as an offline (i.e. stand-alone) app
+	public var editMode:Boolean=true; // true when project editor showing, false when only the player is showing
+	public var isOffline:Boolean=true; // true when running as an offline (i.e. stand-alone) app
 	public var isSmallPlayer:Boolean; // true when displaying as a scaled-down player (e.g. in search results)
 	public var stageIsContracted:Boolean; // true when the stage is half size to give more space on small screens
 	public var isIn3D:Boolean;
@@ -92,7 +92,7 @@ public class Scratch extends Sprite {
 	public var isMicroworld:Boolean = false;
 
 	public var presentationScale:Number;
-	
+
 	// Runtime
 	public var runtime:ScratchRuntime;
 	public var interp:Interpreter;
@@ -142,6 +142,8 @@ public class Scratch extends Sprite {
 
 		// This one must finish before most other queries can start, so do it separately
 		determineJSAccess();
+
+		trace("开始执行主程序");
 	}
 
 	protected function determineJSAccess():void {
@@ -175,6 +177,9 @@ public class Scratch extends Sprite {
 		stage.scaleMode = StageScaleMode.NO_SCALE;
 		stage.frameRate = 30;
 
+		stage.stageWidth = 1366;
+		stage.stageHeight = 768;
+
 		if (stage.hasOwnProperty('color')) {
 			// Stage doesn't have a color property on Air 2.6, and Linux throws if you try to set it anyway.
 			stage['color'] = CSS.backgroundColor();
@@ -194,6 +199,7 @@ public class Scratch extends Sprite {
 
 		playerBG = new Shape(); // create, but don't add
 		addParts();
+		libraryPart.initSprite(0);
 
 		server.getSelectedLang(Translator.setLanguageValue);
 
@@ -886,15 +892,15 @@ public class Scratch extends Sprite {
 
 		updateLayout(w, h);
 	}
-	
+
 	public function updateRecordingTools(t:Number):void {
 		stagePart.updateRecordingTools(t);
 	}
-	
+
 	public function removeRecordingTools():void {
 		stagePart.removeRecordingTools();
 	}
-	
+
 	public function refreshStagePart():void {
 		stagePart.refresh();
 	}
@@ -1054,7 +1060,7 @@ public class Scratch extends Sprite {
 
 		m.showOnStage(stage, b.x, topBarPart.bottom() - 1);
 	}
-	
+
 	public function stopVideo(b:*):void {
 		runtime.stopVideo();
 	}
@@ -1097,7 +1103,7 @@ public class Scratch extends Sprite {
 			});
 		}
 	}
-
+	//标题栏中的Edit选项的功能操作
 	public function showEditMenu(b:*):void {
 		var m:Menu = new Menu(null, 'More', CSS.topBarColor(), 28);
 		m.addItem('Undelete', runtime.undelete, runtime.canUndelete());

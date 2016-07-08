@@ -28,3 +28,4 @@ https://www.tynker.com/ide/
 # 配置
 
 ![使用说明](/使用说明.png)
+![使用说明2](/使用说明2.png)
